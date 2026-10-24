@@ -1,0 +1,13 @@
+city,share_at_floor_exc5,city_type
+Iloilo,4,standard
+Cagayan de Oro,52,standard
+Davao,11,standard
+Zamboanga,22,standard
+Dagupan,49,standard
+Navotas,49,standard
+Muntinlupa,71,low-case
+Mandaluyong,80,low-case
+Tacloban,91,low-case
+Palayan,93,low-case
+Legazpi,96,low-case
+Mandaue,100,low-case

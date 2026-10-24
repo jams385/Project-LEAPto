@@ -1,0 +1,9 @@
+source,loglik,aic,converged,delta_aic_vs_baseline,sample,rows
+No rainfall (baseline only),-6831.1,13664.2,TRUE,0,All cities,8974
+CHIRPS,-6789.3,13586.5,TRUE,-77.6,All cities,8974
+IMERG Final,-6757.4,13522.8,TRUE,-141.4,All cities,8974
+IMERG Late,-6760.7,13529.3,TRUE,-134.8,All cities,8974
+No rainfall (baseline only),-6201.3,12404.6,TRUE,0,Without Cagayan de Oro,8194
+CHIRPS,-6160.5,12329,TRUE,-75.6,Without Cagayan de Oro,8194
+IMERG Final,-6132.1,12272.2,TRUE,-132.3,Without Cagayan de Oro,8194
+IMERG Late,-6137.8,12283.7,TRUE,-120.9,Without Cagayan de Oro,8194

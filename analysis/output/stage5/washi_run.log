@@ -1,0 +1,100 @@
+23:35:45 | Washi set-aside runs: 36 fits on 2 cores 
+23:35:48 | origin 2013 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:35:48 | origin 2013 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:35:51 | origin 2013 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  3s 
+23:35:52 | origin 2013 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  3s 
+23:35:56 | origin 2014 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:35:56 | origin 2014 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:36:00 | origin 2014 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:36:00 | origin 2014 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:36:04 | origin 2015 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  5s 
+23:36:05 | origin 2015 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  4s 
+23:36:09 | origin 2015 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  5s 
+23:36:10 | origin 2015 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  5s 
+23:36:14 | origin 2016 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  5s 
+23:36:15 | origin 2016 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  5s 
+23:36:19 | origin 2016 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  6s 
+23:36:20 | origin 2016 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  5s 
+23:36:25 | origin 2017 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  6s 
+23:36:26 | origin 2017 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  6s 
+23:36:31 | origin 2017 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  6s 
+23:36:32 | origin 2017 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  6s 
+23:36:38 | origin 2018 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  7s 
+23:36:39 | origin 2018 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  7s 
+23:36:45 | origin 2018 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  7s 
+23:36:46 | origin 2018 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  7s 
+23:36:53 | origin 2019 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  7s 
+23:36:54 | origin 2019 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:01 | origin 2019 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:02 | origin 2019 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:09 | origin 2020 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:10 | origin 2020 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:18 | origin 2020 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:18 | origin 2020 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  8s 
+23:37:27 | origin 2021 h 1 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  9s 
+23:37:29 | origin 2021 h 2 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  10s 
+23:37:36 | origin 2021 h 3 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  9s 
+23:37:38 | origin 2021 h 4 pooled_ar4_lvl_nw pr_week_iml->pr_week_iml delay 1  9s 
+            cities h           variant auc_w auc_all     ls yearly_error
+1:      All cities 1    pooled_ar4_lvl 0.769   0.844 0.7891        1.005
+2:      All cities 1 pooled_ar4_lvl_nw 0.774   0.849 0.7823        0.936
+3:      All cities 2    pooled_ar4_lvl 0.757   0.834 0.8037        1.171
+4:      All cities 2 pooled_ar4_lvl_nw 0.761   0.838 0.7955        0.975
+5: Other 11 cities 1    pooled_ar4_lvl 0.790   0.860 0.7775        0.956
+6: Other 11 cities 1 pooled_ar4_lvl_nw 0.793   0.861 0.7774        1.001
+7: Other 11 cities 2    pooled_ar4_lvl 0.778   0.850 0.7912        1.016
+8: Other 11 cities 2 pooled_ar4_lvl_nw 0.781   0.850 0.7910        1.040
+             cities h   gain      lo     hi better
+ 1:      All cities 1 0.0068  0.0024 0.0126 64/106
+ 2:      All cities 2 0.0082  0.0027 0.0150 65/106
+ 3:      All cities 3 0.0073  0.0019 0.0142 60/106
+ 4:      All cities 4 0.0073  0.0008 0.0149 63/106
+ 5:  Cagayan de Oro 1 0.0771  0.0492 0.1168    9/9
+ 6:  Cagayan de Oro 2 0.0922  0.0594 0.1398    9/9
+ 7:  Cagayan de Oro 3 0.0809  0.0314 0.1320    8/9
+ 8:  Cagayan de Oro 4 0.0795  0.0080 0.1357    8/9
+ 9: Other 11 cities 1 0.0000 -0.0008 0.0008  55/97
+10: Other 11 cities 2 0.0002 -0.0004 0.0008  56/97
+11: Other 11 cities 3 0.0003 -0.0002 0.0009  52/97
+12: Other 11 cities 4 0.0004 -0.0002 0.0010  55/97
+             variant h warning_rate watch_rate normal_rate caught caught_warning false_alarms_per_city_year outbreak_weeks         cities
+1:    pooled_ar4_lvl 1        0.412      0.159       0.026  0.705          0.341                      8.415            370     All cities
+2:    pooled_ar4_lvl 2        0.357      0.175       0.028  0.676          0.286                      8.208            370     All cities
+3: pooled_ar4_lvl_nw 1        0.419      0.158       0.025  0.711          0.343                      8.481            370     All cities
+4: pooled_ar4_lvl_nw 2        0.379      0.176       0.027  0.695          0.292                      8.236            370     All cities
+5:    pooled_ar4_lvl 1        0.219      0.034       0.056  0.379          0.241                     15.222             29 Cagayan de Oro
+6:    pooled_ar4_lvl 2        0.194      0.055       0.050  0.448          0.241                     14.667             29 Cagayan de Oro
+7: pooled_ar4_lvl_nw 1        0.333      0.064       0.055  0.310          0.103                     10.444             29 Cagayan de Oro
+8: pooled_ar4_lvl_nw 2        0.167      0.098       0.053  0.310          0.034                      8.778             29 Cagayan de Oro
+             variant observed forecast      error
+1:    pooled_ar4_lvl      187 435.2089  1.3273204
+2: pooled_ar4_lvl_nw      187 163.3607 -0.1264134
+             variant            season observed forecast error
+1:    pooled_ar4_lvl  December-January       47    292.7  5.23
+2: pooled_ar4_lvl_nw  December-January       47     47.2  0.00
+3:    pooled_ar4_lvl February-November      140    142.5  0.02
+4: pooled_ar4_lvl_nw February-November      140    116.2 -0.17
+   year observed pooled_ar4_lvl pooled_ar4_lvl_nw
+1: 2014       23           50.4              16.3
+2: 2015       13           37.2              10.9
+3: 2016       15           38.9              12.6
+4: 2017       40           93.1              37.5
+5: 2018       19           62.5              20.2
+6: 2019       28           36.6              15.2
+7: 2020       11           46.0              18.7
+8: 2021       12           29.7              11.8
+9: 2022       26           40.9              20.1
+              city outbreak_weeks auc_pooled_ar4_lvl auc_pooled_ar4_lvl_nw yearly_bias_pooled_ar4_lvl yearly_bias_pooled_ar4_lvl_nw
+ 1: Cagayan de Oro             29              0.595                 0.618                      1.327                        -0.126
+ 2:        Dagupan             45              0.874                 0.874                      0.432                         0.440
+ 3:          Davao             87              0.710                 0.711                     -0.002                         0.001
+ 4:         Iloilo             61              0.851                 0.850                      0.222                         0.218
+ 5:        Legazpi              3              0.965                 0.958                     -0.441                        -0.444
+ 6:    Mandaluyong             24              0.900                 0.899                     -0.301                        -0.302
+ 7:        Mandaue              3              0.682                 0.682                     -0.638                        -0.639
+ 8:     Muntinlupa             19              0.830                 0.832                     -0.068                        -0.070
+ 9:        Navotas             39              0.791                 0.792                     -0.068                        -0.072
+10:        Palayan              1              0.615                 0.610                      1.762                         1.751
+11:       Tacloban             15              0.667                 0.684                      0.439                         0.661
+12:      Zamboanga             44              0.700                 0.704                     -0.348                        -0.350
+23:37:44 | Done 

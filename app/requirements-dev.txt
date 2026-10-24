@@ -1,0 +1,15 @@
+# Development tools: tests, the data-build script and optional browser checks.
+-r requirements.txt
+
+pytest==9.1.1
+
+# scripts/build_processed.py (raw Project CCHAIN CSVs -> data/processed/). The app
+# itself never imports these. scripts/import_analysis_outputs.py needs only the
+# runtime packages above.
+geopandas==1.1.4
+shapely==2.1.2
+pyogrio==0.13.0
+
+# Optional: manual checks of the running app in a real browser. No test needs it.
+# After installing, run `playwright install chromium` (or use an installed Edge/Chrome).
+playwright==1.64.1

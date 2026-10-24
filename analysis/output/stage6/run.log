@@ -1,0 +1,156 @@
+23:43:11 | Stage 6: 24 fits on 2 cores 
+23:43:12 | strict 2010    h1 seasonal        1s 
+23:43:12 | strict 2010    h1 pooled_ar4_lvl_nw 1s 
+23:43:14 | strict 2010    h2 seasonal        1s 
+23:43:15 | strict 2011    h1 pooled_ar4_lvl_nw 2s 
+23:43:16 | strict 2010    h2 pooled_ar4_lvl_nw 3s 
+23:43:17 | strict 2011    h1 seasonal        2s 
+23:43:18 | strict 2011    h2 pooled_ar4_lvl_nw 2s 
+23:43:19 | strict 2011    h2 seasonal        1s 
+23:43:23 | strict 2017    h1 pooled_ar4_lvl_nw 5s 
+23:43:23 | strict 2017    h1 seasonal        4s 
+23:43:27 | strict 2017    h2 seasonal        4s 
+23:43:28 | strict 2017    h2 pooled_ar4_lvl_nw 5s 
+23:43:36 | today  iloilo  h1 seasonal        8s 
+23:43:36 | today  iloilo  h1 pooled_ar4_lvl_nw 9s 
+23:43:45 | today  iloilo  h2 seasonal        9s 
+23:43:46 | today  iloilo  h2 pooled_ar4_lvl_nw 9s 
+23:43:54 | today  navotas h1 seasonal        8s 
+23:43:54 | today  navotas h1 pooled_ar4_lvl_nw 9s 
+23:44:02 | today  navotas h2 seasonal        8s 
+23:44:03 | today  navotas h2 pooled_ar4_lvl_nw 9s 
+23:44:10 | today  washi   h1 seasonal        7s 
+23:44:11 | today  washi   h1 pooled_ar4_lvl_nw 9s 
+23:44:18 | today  washi   h2 seasonal        7s 
+23:44:19 | today  washi   h2 pooled_ar4_lvl_nw 9s 
+Navotas strict vs Stage 5: max abs difference in forecast mean = 8.82e-05 over 62 weeks
+Warning messages:
+1: In self$trans$transform(x) : NaNs produced
+2: Removed 26 rows containing missing values (`geom_rect()`). 
+3: In self$trans$transform(x) : NaNs produced
+4: Removed 26 rows containing missing values (`geom_rect()`). 
+5: Removed 2 rows containing missing values (`geom_step()`). 
+6: Removed 2 rows containing missing values (`geom_step()`). 
+      view origin   event h             model converged optimiser
+ 1: strict   2010         1          seasonal      TRUE    nlminb
+ 2: strict   2010         2          seasonal      TRUE    nlminb
+ 3: strict   2011         1          seasonal      TRUE    nlminb
+ 4: strict   2011         2          seasonal      TRUE    nlminb
+ 5: strict   2017         1          seasonal      TRUE    nlminb
+ 6: strict   2017         2          seasonal      TRUE    nlminb
+ 7:  today   2021  iloilo 1          seasonal      TRUE    nlminb
+ 8:  today   2021  iloilo 2          seasonal      TRUE    nlminb
+ 9:  today   2021 navotas 1          seasonal      TRUE    nlminb
+10:  today   2021 navotas 2          seasonal      TRUE    nlminb
+11:  today   2021   washi 1          seasonal      TRUE    nlminb
+12:  today   2021   washi 2          seasonal      TRUE    nlminb
+13: strict   2010         1 pooled_ar4_lvl_nw      TRUE    nlminb
+14: strict   2011         1 pooled_ar4_lvl_nw      TRUE    nlminb
+15: strict   2017         1 pooled_ar4_lvl_nw      TRUE    nlminb
+16:  today   2021  iloilo 1 pooled_ar4_lvl_nw      TRUE    nlminb
+17:  today   2021 navotas 1 pooled_ar4_lvl_nw      TRUE    nlminb
+18:  today   2021   washi 1 pooled_ar4_lvl_nw      TRUE    nlminb
+19: strict   2010         2 pooled_ar4_lvl_nw      TRUE      BFGS
+20: strict   2011         2 pooled_ar4_lvl_nw      TRUE    nlminb
+21: strict   2017         2 pooled_ar4_lvl_nw      TRUE    nlminb
+22:  today   2021  iloilo 2 pooled_ar4_lvl_nw      TRUE    nlminb
+23:  today   2021 navotas 2 pooled_ar4_lvl_nw      TRUE    nlminb
+24:  today   2021   washi 2 pooled_ar4_lvl_nw      TRUE    nlminb
+      view origin   event h             model converged optimiser
+      event episode_start weeks cases   view h first_week_level chance lead_weeks runup flagged fc_cases fc_peak peak
+ 1:  iloilo    2011-01-23     2    30 strict 1          Warning   0.26          2  NA/3     2/2        7     4.6   21
+ 2:  iloilo    2011-01-23     2    30 strict 2          Warning   0.44          3  NA/3     2/2        7     3.7   21
+ 3:  iloilo    2011-01-23     2    30  today 1          Warning   0.50          2  NA/3     2/2        9     5.0   21
+ 4:  iloilo    2011-01-23     2    30  today 2          Warning   0.57          3  NA/3     2/2        9     5.2   21
+ 5:  iloilo    2011-02-13     2    13 strict 1          Warning   0.94          2   4/4     2/2        9     8.0    9
+ 6:  iloilo    2011-02-13     2    13 strict 2          Warning   0.51          3   4/4     2/2        6     3.1    9
+ 7:  iloilo    2011-02-13     2    13  today 1          Warning   0.84          2   4/4     2/2       10     7.5    9
+ 8:  iloilo    2011-02-13     2    13  today 2          Warning   0.60          3   4/4     2/2        8     4.1    9
+ 9:  iloilo    2011-07-10     2    36 strict 1           Normal   0.00          0   0/4     0/2        8     4.7   18
+10:  iloilo    2011-07-10     2    36 strict 2           Normal   0.00          0   0/4     0/2        9     4.8   18
+11:  iloilo    2011-07-10     2    36  today 1           Normal   0.03          0   1/4     0/2       12     6.7   18
+12:  iloilo    2011-07-10     2    36  today 2           Normal   0.02          0   1/4     0/2       10     5.5   18
+13:  iloilo    2011-08-07    11   795 strict 1           Normal   0.00          0   0/4    8/11      343    93.0  189
+14:  iloilo    2011-08-07    11   795 strict 2           Normal   0.00          0   0/4    7/11      252    99.0  189
+15:  iloilo    2011-08-07    11   795  today 1           Normal   0.05          0   1/4    9/11      651   193.0  189
+16:  iloilo    2011-08-07    11   795  today 2           Normal   0.05          0   0/4    7/11      432   168.1  189
+17:  iloilo    2011-11-13    16   281 strict 1          Warning   0.33          2   4/4   14/16      119    16.7   56
+18:  iloilo    2011-11-13    16   281 strict 2            Watch   0.13          3   3/4   12/16       88    12.0   56
+19:  iloilo    2011-11-13    16   281  today 1          Warning   0.52          2   4/4   16/16      154    17.1   56
+20:  iloilo    2011-11-13    16   281  today 2          Warning   0.55          3   4/4   16/16      125    12.8   56
+21:  iloilo    2012-04-08     2     6 strict 1            Watch   0.20          2   3/4     2/2        3     1.7    3
+22:  iloilo    2012-04-08     2     6 strict 2          Warning   0.32          3   3/4     2/2        4     2.0    3
+23:  iloilo    2012-04-08     2     6  today 1            Watch   0.28          2   4/4     2/2        3     1.8    3
+24:  iloilo    2012-04-08     2     6  today 2          Warning   0.41          3   4/4     2/2        4     2.6    3
+25:  iloilo    2012-09-23     8   485 strict 1           Normal   0.06          0   4/4     3/8      165    43.4   84
+26:  iloilo    2012-09-23     8   485 strict 2            Watch   0.24          3   4/4     3/8      120    27.8   84
+27:  iloilo    2012-09-23     8   485  today 1           Normal   0.02          0   0/4     6/8      238    61.7   84
+28:  iloilo    2012-09-23     8   485  today 2           Normal   0.06          0   0/4     5/8      170    35.9   84
+29: navotas    2018-06-17     2     8 strict 1            Watch   0.11          2   0/4     2/2        2     1.3    4
+30: navotas    2018-06-17     2     8 strict 2           Normal   0.03          0   0/4     1/2        1     1.2    4
+31: navotas    2018-06-17     2     8  today 1            Watch   0.21          2   0/4     2/2        3     1.8    4
+32: navotas    2018-06-17     2     8  today 2           Normal   0.06          0   0/4     1/2        2     1.8    4
+33: navotas    2018-07-08     4    19 strict 1          Warning   0.31          2   3/4     4/4        8     3.6    9
+34: navotas    2018-07-08     4    19 strict 2          Warning   0.28          3   2/4     4/4        8     4.3    9
+35: navotas    2018-07-08     4    19  today 1            Watch   0.34          2   3/4     4/4        9     4.1    9
+36: navotas    2018-07-08     4    19  today 2            Watch   0.32          3   2/4     4/4        8     4.6    9
+37: navotas    2018-08-12     3    10 strict 1          Warning   0.69          2   4/4     3/3       13     5.8    5
+38: navotas    2018-08-12     3    10 strict 2          Warning   0.52          3   4/4     3/3       15     8.0    5
+39: navotas    2018-08-12     3    10  today 1          Warning   0.71          2   4/4     3/3       13     5.3    5
+40: navotas    2018-08-12     3    10  today 2          Warning   0.50          3   4/4     3/3       13     6.6    5
+41:   washi    2011-12-18     5   774 strict 1            Watch   0.06          2   4/4     3/5       27    19.3  554
+42:   washi    2011-12-18     5   774 strict 2            Watch   0.09          3   3/4     1/5        2     0.9  554
+43:   washi    2011-12-18     5   774  today 1           Normal   0.09          0   0/4     2/5      112    90.2  554
+44:   washi    2011-12-18     5   774  today 2           Normal   0.06          0   0/4     1/5       12     8.9  554
+      event episode_start weeks cases   view h first_week_level chance lead_weeks runup flagged fc_cases fc_peak peak
+      event episode_start   view first_week_level chance flagged fc_cases
+ 1:  iloilo    2011-01-23 strict            Watch   0.12     2/2        3
+ 2:  iloilo    2011-01-23  today            Watch   0.32     2/2        6
+ 3:  iloilo    2011-02-13 strict          Warning   0.19     2/2        3
+ 4:  iloilo    2011-02-13  today          Warning   0.39     2/2        5
+ 5:  iloilo    2011-07-10 strict           Normal   0.02     0/2        8
+ 6:  iloilo    2011-07-10  today           Normal   0.02     0/2        9
+ 7:  iloilo    2011-08-07 strict           Normal   0.03    5/11      110
+ 8:  iloilo    2011-08-07  today           Normal   0.02    1/11      117
+ 9:  iloilo    2011-11-13 strict            Watch   0.09   12/16      130
+10:  iloilo    2011-11-13  today          Warning   0.43   16/16       80
+11:  iloilo    2012-04-08 strict          Warning   0.46     2/2        6
+12:  iloilo    2012-04-08  today           Normal   0.10     1/2        2
+13:  iloilo    2012-09-23 strict          Warning   0.77     8/8      491
+14:  iloilo    2012-09-23  today           Normal   0.09     6/8      139
+15: navotas    2018-06-17 strict           Normal   0.00     0/2        0
+16: navotas    2018-06-17  today           Normal   0.06     0/2        1
+17: navotas    2018-07-08 strict           Normal   0.01     0/4        1
+18: navotas    2018-07-08  today            Watch   0.14     4/4        4
+19: navotas    2018-08-12 strict            Watch   0.10     3/3        1
+20: navotas    2018-08-12  today          Warning   0.35     3/3        5
+21:   washi    2011-12-18 strict           Normal   0.01     3/5       31
+22:   washi    2011-12-18  today           Normal   0.05     0/5        2
+      event episode_start   view first_week_level chance flagged fc_cases
+      event   view             model h weeks outbreak_weeks caught warning_caught false_alarm_weeks observed forecast
+ 1:   washi strict pooled_ar4_lvl_nw 1    26              5   0.60           0.00                16      781    59.12
+ 2:   washi strict          seasonal 1    26              5   0.60           0.00                13      781    66.15
+ 3:   washi strict pooled_ar4_lvl_nw 2    26              5   0.20           0.00                17      781    40.42
+ 4:   washi strict          seasonal 2    26              5   0.60           0.00                13      781    66.15
+ 5:   washi  today pooled_ar4_lvl_nw 1    26              5   0.40           0.40                 6      781   204.47
+ 6:   washi  today          seasonal 1    26              5   0.00           0.00                 0      781     6.31
+ 7:   washi  today pooled_ar4_lvl_nw 2    26              5   0.20           0.00                 8      781   132.14
+ 8:   washi  today          seasonal 2    26              5   0.00           0.00                 0      781     6.31
+ 9:  iloilo  today pooled_ar4_lvl_nw 1   104             48   0.85           0.65                36     1942  1523.59
+10:  iloilo  today          seasonal 1   104             48   0.67           0.33                22     1942   619.15
+11:  iloilo  today pooled_ar4_lvl_nw 2   104             48   0.77           0.58                34     1942  1210.76
+12:  iloilo  today          seasonal 2   104             48   0.67           0.33                22     1942   619.15
+13:  iloilo strict pooled_ar4_lvl_nw 1   104             48   0.71           0.54                36     1942  1117.86
+14:  iloilo strict          seasonal 1   104             48   0.73           0.56                39     1942  1711.68
+15:  iloilo strict pooled_ar4_lvl_nw 2   104             48   0.65           0.40                38     1942   956.20
+16:  iloilo strict          seasonal 2   104             48   0.73           0.56                39     1942  1711.68
+17: navotas  today pooled_ar4_lvl_nw 1    31             12   0.92           0.58                 4       54    41.26
+18: navotas  today          seasonal 1    31             12   0.75           0.33                 4       54    23.41
+19: navotas  today pooled_ar4_lvl_nw 2    31             12   0.83           0.50                 5       54    41.47
+20: navotas  today          seasonal 2    31             12   0.75           0.33                 4       54    23.41
+21: navotas strict pooled_ar4_lvl_nw 1    31             12   0.92           0.75                 5       54    41.04
+22: navotas strict          seasonal 1    31             12   0.33           0.00                 1       54     5.97
+23: navotas strict pooled_ar4_lvl_nw 2    31             12   0.83           0.67                 5       54    43.17
+24: navotas strict          seasonal 2    31             12   0.33           0.00                 1       54     5.97
+      event   view             model h weeks outbreak_weeks caught warning_caught false_alarm_weeks observed forecast
+23:44:24 | Done 

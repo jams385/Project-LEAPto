@@ -1,0 +1,13 @@
+horizon,episode,alert_level,n,share
+1,2+ weeks,Normal,13,0.203125
+1,2+ weeks,Warning,18,0.28125
+1,2+ weeks,Watch,33,0.515625
+1,single week,Normal,84,0.485549
+1,single week,Warning,35,0.202312
+1,single week,Watch,54,0.312139
+2,2+ weeks,Normal,16,0.25
+2,2+ weeks,Warning,16,0.25
+2,2+ weeks,Watch,32,0.5
+2,single week,Normal,83,0.479769
+2,single week,Warning,29,0.16763
+2,single week,Watch,61,0.352601

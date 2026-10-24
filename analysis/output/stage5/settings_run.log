@@ -1,0 +1,230 @@
+08:19:40 | Settings runs: 108 fits on 2 cores 
+08:19:43 | origin 2013 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:19:44 | origin 2013 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  4s 
+08:19:45 | origin 2013 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:19:47 | origin 2013 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  3s 
+08:19:48 | origin 2013 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:19:50 | origin 2013 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:19:51 | origin 2013 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  3s 
+08:19:52 | origin 2013 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:19:54 | origin 2013 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:19:56 | origin 2013 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  3s 
+08:19:56 | origin 2013 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  2s 
+08:19:58 | origin 2013 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  2s 
+08:20:00 | origin 2014 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  4s 
+08:20:01 | origin 2014 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:03 | origin 2014 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:05 | origin 2014 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  4s 
+08:20:06 | origin 2014 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:08 | origin 2014 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:10 | origin 2014 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  4s 
+08:20:11 | origin 2014 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:13 | origin 2014 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:16 | origin 2014 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  4s 
+08:20:16 | origin 2014 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:19 | origin 2014 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:21 | origin 2015 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:20:22 | origin 2015 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:24 | origin 2015 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:26 | origin 2015 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:20:28 | origin 2015 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:30 | origin 2015 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:32 | origin 2015 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:20:33 | origin 2015 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:36 | origin 2015 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:38 | origin 2015 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:20:39 | origin 2015 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:41 | origin 2015 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  3s 
+08:20:45 | origin 2016 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:20:45 | origin 2016 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:49 | origin 2016 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:50 | origin 2016 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:20:53 | origin 2016 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:54 | origin 2016 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:58 | origin 2016 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:20:58 | origin 2016 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:21:02 | origin 2016 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:21:03 | origin 2016 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  5s 
+08:21:06 | origin 2016 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:21:07 | origin 2016 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:21:12 | origin 2017 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:21:13 | origin 2017 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  7s 
+08:21:16 | origin 2017 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  4s 
+08:21:19 | origin 2017 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  7s 
+08:21:21 | origin 2017 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:21:24 | origin 2017 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:21:28 | origin 2017 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  7s 
+08:21:28 | origin 2017 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:21:32 | origin 2017 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:21:35 | origin 2017 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  7s 
+08:21:37 | origin 2017 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:21:40 | origin 2017 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:21:45 | origin 2018 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  8s 
+08:21:46 | origin 2018 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:21:51 | origin 2018 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:21:54 | origin 2018 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  8s 
+08:21:56 | origin 2018 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:22:00 | origin 2018 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  5s 
+08:22:04 | origin 2018 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  8s 
+08:22:06 | origin 2018 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:09 | origin 2018 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:14 | origin 2018 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  9s 
+08:22:15 | origin 2018 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:20 | origin 2018 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:24 | origin 2019 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  9s 
+08:22:26 | origin 2019 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:31 | origin 2019 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:35 | origin 2019 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  9s 
+08:22:37 | origin 2019 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:41 | origin 2019 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:45 | origin 2019 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  8s 
+08:22:47 | origin 2019 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:51 | origin 2019 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:22:55 | origin 2019 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  8s 
+08:22:57 | origin 2019 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:01 | origin 2019 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:07 | origin 2020 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  9s 
+08:23:08 | origin 2020 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:13 | origin 2020 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:18 | origin 2020 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  10s 
+08:23:19 | origin 2020 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:24 | origin 2020 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:29 | origin 2020 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  10s 
+08:23:30 | origin 2020 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:35 | origin 2020 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:40 | origin 2020 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  10s 
+08:23:41 | origin 2020 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:46 | origin 2020 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+08:23:53 | origin 2021 h 1 pooled_ar4   pr_week_iml->pr_week_iml delay 1  11s 
+08:23:54 | origin 2021 h 1 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:00 | origin 2021 h 1 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:04 | origin 2021 h 2 pooled_ar4   pr_week_iml->pr_week_iml delay 1  11s 
+08:24:07 | origin 2021 h 2 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:11 | origin 2021 h 2 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:17 | origin 2021 h 3 pooled_ar4   pr_week_iml->pr_week_iml delay 1  10s 
+08:24:18 | origin 2021 h 3 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:25 | origin 2021 h 3 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:28 | origin 2021 h 4 pooled_ar4   pr_week_iml->pr_week_iml delay 1  11s 
+08:24:31 | origin 2021 h 4 pooled_ar4_lvl pr_week_iml->pr_week_iml delay 1  7s 
+08:24:35 | origin 2021 h 4 pooled_ar_lvl pr_week_iml->pr_week_iml delay 1  6s 
+           variant h weeks auc_within_city   auc_all log_score weekly_error
+ 1:       seasonal 1  5372       0.6661275 0.7508543 0.8975466     1.490925
+ 2:      pooled_ar 1  5372       0.7322653 0.8130694 0.8316560     1.185010
+ 3:     pooled_ar4 1  5372       0.7347893 0.8144364 0.8302576     1.189797
+ 4:  pooled_ar_lvl 1  5372       0.7666681 0.8420524 0.7912988     1.150679
+ 5: pooled_ar4_lvl 1  5372       0.7687620 0.8444465 0.7890548     1.145895
+ 6:       seasonal 2  5372       0.6661275 0.7508543 0.8975466     1.490925
+ 7:      pooled_ar 2  5372       0.7166093 0.7974032 0.8517316     1.285972
+ 8:     pooled_ar4 2  5372       0.7181207 0.7987994 0.8503783     1.286177
+ 9:  pooled_ar_lvl 2  5372       0.7539723 0.8307753 0.8056569     1.301083
+10: pooled_ar4_lvl 2  5372       0.7569508 0.8335017 0.8036681     1.262885
+11:       seasonal 3  5372       0.6661275 0.7508543 0.8975466     1.490925
+12:      pooled_ar 3  5372       0.6948529 0.7792618 0.8724784     1.366500
+13:     pooled_ar4 3  5372       0.6961537 0.7815566 0.8705591     1.362890
+14:  pooled_ar_lvl 3  5372       0.7221929 0.8108497 0.8261264     1.356248
+15: pooled_ar4_lvl 3  5372       0.7244181 0.8136648 0.8235833     1.314905
+16:       seasonal 4  5372       0.6661275 0.7508543 0.8975466     1.490925
+17:      pooled_ar 4  5372       0.6761288 0.7645753 0.8876253     1.485203
+18:     pooled_ar4 4  5372       0.6783756 0.7664783 0.8854535     1.484640
+19:  pooled_ar_lvl 4  5372       0.6871740 0.7906870 0.8464243     1.505591
+20: pooled_ar4_lvl 4  5372       0.6951663 0.7955893 0.8393388     1.461268
+    yearly_error    prec20    sens20     fa20    prec10    sens10      fa10
+ 1:    0.9672996 0.2123386 0.4000000 5.179245 0.1652640 0.5837838 10.292453
+ 2:    0.6714257 0.2802548 0.4756757 4.264151 0.1950596 0.6189189  8.915094
+ 3:    0.6734053 0.2829889 0.4810811 4.254717 0.1977740 0.6243243  8.839623
+ 4:    0.4939297 0.3049002 0.4540541 3.613208 0.2284946 0.6891892  8.122642
+ 5:    0.4790596 0.3053571 0.4621622 3.669811 0.2292769 0.7027027  8.245283
+ 6:    0.9672996 0.2123386 0.4000000 5.179245 0.1652640 0.5837838 10.292453
+ 7:    0.7670760 0.2581649 0.4486486 4.500000 0.1862828 0.5945946  9.066038
+ 8:    0.7660451 0.2561350 0.4513514 4.575472 0.1851852 0.5945946  9.132075
+ 9:    0.6493615 0.2748344 0.4486486 4.132075 0.2171332 0.6918919  8.707547
+10:    0.5960128 0.2864157 0.4729730 4.113208 0.2224109 0.7081081  8.641509
+11:    0.9672996 0.2123386 0.4000000 5.179245 0.1652640 0.5837838 10.292453
+12:    0.8398299 0.2346939 0.4351351 4.952830 0.1776892 0.6027027  9.735849
+13:    0.8326018 0.2327965 0.4297297 4.943396 0.1783439 0.6054054  9.735849
+14:    0.6654730 0.2488550 0.4405405 4.641509 0.1935484 0.6972973 10.141509
+15:    0.6119685 0.2447761 0.4432432 4.773585 0.1969466 0.6972973  9.924528
+16:    0.9672996 0.2123386 0.4000000 5.179245 0.1652640 0.5837838 10.292453
+17:    0.9413251 0.2276657 0.4270270 5.056604 0.1673244 0.5729730  9.952830
+18:    0.9377697 0.2301013 0.4297297 5.018868 0.1708661 0.5864865  9.933962
+19:    0.7991075 0.2220690 0.4351351 5.320755 0.1795775 0.6891892 10.990566
+20:    0.7316382 0.2345324 0.4405405 5.018868 0.1803395 0.6891892 10.933962
+           variant h gain_per_week            lo          hi city_years_better
+ 1:     pooled_ar4 1   0.001398412 -2.116507e-04 0.003238962                66
+ 2:     pooled_ar4 2   0.001353290  9.410664e-05 0.003005636                70
+ 3:     pooled_ar4 3   0.001919371 -9.148389e-04 0.005114566                67
+ 4:     pooled_ar4 4   0.002171781  1.048346e-04 0.004842230                66
+ 5:  pooled_ar_lvl 1   0.040357129  1.731390e-02 0.069159084                59
+ 6:  pooled_ar_lvl 2   0.046074713  1.742524e-02 0.080598128                55
+ 7:  pooled_ar_lvl 3   0.046351994  1.413280e-02 0.082098151                53
+ 8:  pooled_ar_lvl 4   0.041200909  1.062404e-02 0.077366140                51
+ 9: pooled_ar4_lvl 1   0.042601204  1.878737e-02 0.070170490                59
+10: pooled_ar4_lvl 2   0.048063478  1.903868e-02 0.083399611                58
+11: pooled_ar4_lvl 3   0.048895122  1.804978e-02 0.089973238                53
+12: pooled_ar4_lvl 4   0.048286497  1.612180e-02 0.091140053                52
+    city_years
+ 1:        106
+ 2:        106
+ 3:        106
+ 4:        106
+ 5:        106
+ 6:        106
+ 7:        106
+ 8:        106
+ 9:        106
+10:        106
+11:        106
+12:        106
+              city outbreak_weeks pooled_ar pooled_ar4 pooled_ar4_lvl
+ 1:          Davao             87 0.7270341  0.7261291      0.7097475
+ 2:         Iloilo             61 0.7861200  0.7907923      0.8513715
+ 3:        Dagupan             45 0.8778307  0.8769312      0.8744974
+ 4:      Zamboanga             44 0.5879610  0.5927852      0.6996677
+ 5:        Navotas             39 0.7734938  0.7754373      0.7911730
+ 6: Cagayan de Oro             29 0.5448119  0.5452046      0.5952400
+ 7:    Mandaluyong             24 0.8688838  0.8699350      0.8997515
+ 8:     Muntinlupa             19 0.7938285  0.7943262      0.8299117
+ 9:       Tacloban             15 0.6304239  0.6415628      0.6674979
+10:        Legazpi              3 0.9458333  0.9450000      0.9650000
+11:        Mandaue              3 0.4697337  0.4705408      0.6820016
+12:        Palayan              1 0.5278396  0.5322940      0.6146993
+    pooled_ar_lvl  seasonal
+ 1:     0.7027785 0.6934263
+ 2:     0.8412213 0.5935071
+ 3:     0.8752910 0.8399471
+ 4:     0.6861063 0.6064001
+ 5:     0.7947464 0.7138110
+ 6:     0.5961825 0.5346791
+ 7:     0.8990826 0.7377676
+ 8:     0.8277964 0.7028742
+ 9:     0.6768080 0.5727348
+10:     0.9725000 0.9325000
+11:     0.6908797 0.3599677
+12:     0.5946548 0.5456570
+              city    pooled_ar   pooled_ar4 pooled_ar4_lvl pooled_ar_lvl
+ 1: Cagayan de Oro  1.802438428  1.869929576     1.32732036   1.273903184
+ 2:        Dagupan  0.567670798  0.598499144     0.43234833   0.385613795
+ 3:          Davao -0.016209393 -0.014028123    -0.00196554  -0.006983846
+ 4:         Iloilo  0.051673393  0.047654673     0.22196537   0.283691981
+ 5:        Legazpi -0.483024571 -0.479517626    -0.44126636  -0.428176468
+ 6:    Mandaluyong -0.082710812 -0.086179307    -0.30095535  -0.308555529
+ 7:        Mandaue -0.754930830 -0.752312576    -0.63837917  -0.622675870
+ 8:     Muntinlupa -0.003130695 -0.004302336    -0.06821172  -0.086972134
+ 9:        Navotas  0.024082450  0.016022203    -0.06763595  -0.091124126
+10:        Palayan  1.297031497  1.290892569     1.76241344   1.660205447
+11:       Tacloban  0.465586749  0.520726862     0.43930632   0.451702609
+12:      Zamboanga -0.312917214 -0.312771077    -0.34848104  -0.357648063
+       seasonal
+ 1:  3.89820502
+ 2:  0.13687512
+ 3:  0.07479288
+ 4:  0.21146173
+ 5: -0.39043326
+ 6:  0.28971134
+ 7: -0.72793874
+ 8:  0.47958733
+ 9:  0.27882768
+10:  1.41522350
+11:  0.52238942
+12: -0.21703095
+08:24:43 | Done 

@@ -1,0 +1,15 @@
+scenario,rain,step,n,typical_mm,p95_mm,rr_p95,lo_p95,hi_p95,peak_lag,rr_peak_lag,lags_signif,excess_p95,excess_lo_p95,excess_hi_p95
+Main model,pr_week_imf,a,8974,35.6,163.8,7.266,4.213,12.534,2,1.77,1-5,2.503,1.767,3.086
+Rainfall: CHIRPS,pr_week,a,8974,32.3,142,5.709,3.434,9.492,2,1.681,1-10,2.144,1.572,2.83
+Rainfall: CHIRPS-IMERG average,rain_avg,a,8974,35.3,150.5,7.072,4.118,12.143,2,1.781,1-5,2.463,1.964,3.264
+Rainfall: IMERG Late,pr_week_iml,a,8974,34.8,176.1,10.939,6.297,19.005,2,1.881,1-6,3.081,2.474,3.816
+Calendar: Alternative A,pr_week_imf,a,8974,35.7,163.8,7.782,4.51,13.427,2,1.83,1-5,2.618,2.097,3.284
+Calendar: Alternative B,pr_week_imf,a,8974,35.7,163.7,7.816,4.534,13.474,3,1.859,1-6,2.623,1.899,3.266
+Without CDO Washi weeks,pr_week_imf,a,8971,35.6,163.8,6.829,3.972,11.743,2,1.747,1-5,2.419,1.815,3.15
+Without Cagayan de Oro,pr_week_imf,a,8194,34.9,163.8,7.022,4.054,12.163,2,1.736,1-5,2.434,1.79,3.174
+Keep all weeks (no exclusions),pr_week_imf,a,9360,35.7,163.8,7.356,4.262,12.695,2,1.775,1-5,2.519,1.859,3.244
+Adjust for temperature,pr_week_imf,a,8974,35.6,163.8,4.671,2.655,8.22,2,1.611,1-5,1.892,1.177,2.511
+Exclude 2020-2022 (COVID),pr_week_imf,a,7233,34.1,163.8,6.833,3.633,12.851,2,1.707,1-5,2.397,1.645,3.247
+Wettest day instead of weekly total,pr_day_max_imf,a,8974,16.3,79.3,6.683,3.89,11.48,2,1.863,1-4,2.478,1.809,3.183
+Population held at 2020,pr_week_imf,a,8974,35.6,163.8,7.268,4.214,12.536,2,1.77,1-5,2.503,1.938,3.367
+Add last week's cases,pr_week_imf,a,8963,35.6,163.8,4.045,2.383,6.866,2,1.527,1-4,1.653,0.981,2.313

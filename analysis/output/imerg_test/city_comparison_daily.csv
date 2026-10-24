@@ -1,0 +1,79 @@
+city,imerg_city,imerg_max_cell,chirps_city,chirps_max_brgy,product,event,date
+Mandaluyong,104.1,104.1,108.7,113.3,final,Habagat 2012,2012-08-05
+Mandaluyong,161.3,161.3,140,147.7,final,Habagat 2012,2012-08-06
+Mandaluyong,158.2,158.2,186.7,197,final,Habagat 2012,2012-08-07
+Mandaluyong,151.6,151.6,115.4,121.5,final,Habagat 2012,2012-08-08
+Mandaluyong,4.1,4.1,0,0,final,Habagat 2012,2012-08-09
+Mandaluyong,22.7,22.7,0,0,final,Habagat 2012,2012-08-10
+Muntinlupa,104.5,108.7,100.8,107.6,final,Habagat 2012,2012-08-05
+Muntinlupa,197.1,202.1,135.2,143.8,final,Habagat 2012,2012-08-06
+Muntinlupa,133.4,146.9,172.8,184.8,final,Habagat 2012,2012-08-07
+Muntinlupa,25.9,30.3,70,73.8,final,Habagat 2012,2012-08-08
+Muntinlupa,2.4,3.2,0,0,final,Habagat 2012,2012-08-09
+Muntinlupa,23.6,38.2,20.4,22,final,Habagat 2012,2012-08-10
+Navotas,98.4,98.4,113.9,124.5,final,Habagat 2012,2012-08-05
+Navotas,189.8,189.8,142.5,150.2,final,Habagat 2012,2012-08-06
+Navotas,201.2,201.2,195.3,202.6,final,Habagat 2012,2012-08-07
+Navotas,81.8,81.8,146.5,151.9,final,Habagat 2012,2012-08-08
+Navotas,27.8,27.8,12.4,24,final,Habagat 2012,2012-08-09
+Navotas,41.7,41.7,24.4,25.3,final,Habagat 2012,2012-08-10
+Mandaluyong,0.5,0.5,0.1,3.9,final,Ondoy 2009,2009-09-24
+Mandaluyong,120.7,120.7,88.4,95.4,final,Ondoy 2009,2009-09-25
+Mandaluyong,140.9,140.9,128.2,135.1,final,Ondoy 2009,2009-09-26
+Mandaluyong,5.9,5.9,18.3,19.3,final,Ondoy 2009,2009-09-27
+Mandaluyong,2.3,2.3,0,0,final,Ondoy 2009,2009-09-28
+Muntinlupa,4.7,5.1,0,0,final,Ondoy 2009,2009-09-24
+Muntinlupa,120,125.9,114.6,118.4,final,Ondoy 2009,2009-09-25
+Muntinlupa,141.9,144,128.1,128.6,final,Ondoy 2009,2009-09-26
+Muntinlupa,12.1,12.7,18.3,18.4,final,Ondoy 2009,2009-09-27
+Muntinlupa,1.5,1.6,0,0,final,Ondoy 2009,2009-09-28
+Navotas,1.8,1.8,12.5,13.1,final,Ondoy 2009,2009-09-24
+Navotas,92.8,92.8,87.8,91.5,final,Ondoy 2009,2009-09-25
+Navotas,149.3,149.3,133.6,135.8,final,Ondoy 2009,2009-09-26
+Navotas,9.9,9.9,19.1,19.4,final,Ondoy 2009,2009-09-27
+Navotas,4.5,4.5,0,0,final,Ondoy 2009,2009-09-28
+Cagayan de Oro,0.4,1.8,0,0,final,Washi 2011,2011-12-14
+Cagayan de Oro,0.8,1.4,6.2,10.5,final,Washi 2011,2011-12-15
+Cagayan de Oro,113.9,167.3,38.8,81.5,final,Washi 2011,2011-12-16
+Cagayan de Oro,10.9,16.6,6,10.4,final,Washi 2011,2011-12-17
+Cagayan de Oro,2.9,3.5,7.1,17.3,final,Washi 2011,2011-12-18
+Cagayan de Oro,0.1,0.1,0,0,final,Washi 2011,2011-12-19
+Mandaluyong,61.7,61.7,108.7,113.3,late,Habagat 2012,2012-08-05
+Mandaluyong,130.6,130.6,140,147.7,late,Habagat 2012,2012-08-06
+Mandaluyong,126.9,126.9,186.7,197,late,Habagat 2012,2012-08-07
+Mandaluyong,141.6,141.6,115.4,121.5,late,Habagat 2012,2012-08-08
+Mandaluyong,4.2,4.2,0,0,late,Habagat 2012,2012-08-09
+Mandaluyong,18.9,18.9,0,0,late,Habagat 2012,2012-08-10
+Muntinlupa,69,70.6,100.8,107.6,late,Habagat 2012,2012-08-05
+Muntinlupa,150.3,159.9,135.2,143.8,late,Habagat 2012,2012-08-06
+Muntinlupa,97.7,114.4,172.8,184.8,late,Habagat 2012,2012-08-07
+Muntinlupa,18.2,23.3,70,73.8,late,Habagat 2012,2012-08-08
+Muntinlupa,1.5,2.3,0,0,late,Habagat 2012,2012-08-09
+Muntinlupa,18.2,29.4,20.4,22,late,Habagat 2012,2012-08-10
+Navotas,64.9,64.9,113.9,124.5,late,Habagat 2012,2012-08-05
+Navotas,157.7,157.7,142.5,150.2,late,Habagat 2012,2012-08-06
+Navotas,152.8,152.8,195.3,202.6,late,Habagat 2012,2012-08-07
+Navotas,60.8,60.8,146.5,151.9,late,Habagat 2012,2012-08-08
+Navotas,23.7,23.7,12.4,24,late,Habagat 2012,2012-08-09
+Navotas,34,34,24.4,25.3,late,Habagat 2012,2012-08-10
+Mandaluyong,1,1,0.1,3.9,late,Ondoy 2009,2009-09-24
+Mandaluyong,114.6,114.6,88.4,95.4,late,Ondoy 2009,2009-09-25
+Mandaluyong,128.4,128.4,128.2,135.1,late,Ondoy 2009,2009-09-26
+Mandaluyong,7.4,7.4,18.3,19.3,late,Ondoy 2009,2009-09-27
+Mandaluyong,3.1,3.1,0,0,late,Ondoy 2009,2009-09-28
+Muntinlupa,6.6,7.4,0,0,late,Ondoy 2009,2009-09-24
+Muntinlupa,128.4,131.7,114.6,118.4,late,Ondoy 2009,2009-09-25
+Muntinlupa,153,163.7,128.1,128.6,late,Ondoy 2009,2009-09-26
+Muntinlupa,15.6,16.8,18.3,18.4,late,Ondoy 2009,2009-09-27
+Muntinlupa,2.6,2.7,0,0,late,Ondoy 2009,2009-09-28
+Navotas,1.7,1.7,12.5,13.1,late,Ondoy 2009,2009-09-24
+Navotas,97.7,97.7,87.8,91.5,late,Ondoy 2009,2009-09-25
+Navotas,143,143,133.6,135.8,late,Ondoy 2009,2009-09-26
+Navotas,13.8,13.8,19.1,19.4,late,Ondoy 2009,2009-09-27
+Navotas,6.2,6.2,0,0,late,Ondoy 2009,2009-09-28
+Cagayan de Oro,0.4,2.4,0,0,late,Washi 2011,2011-12-14
+Cagayan de Oro,1.1,1.7,6.2,10.5,late,Washi 2011,2011-12-15
+Cagayan de Oro,146,255.3,38.8,81.5,late,Washi 2011,2011-12-16
+Cagayan de Oro,13.4,20.8,6,10.4,late,Washi 2011,2011-12-17
+Cagayan de Oro,3.5,4,7.1,17.3,late,Washi 2011,2011-12-18
+Cagayan de Oro,0.1,0.2,0,0,late,Washi 2011,2011-12-19

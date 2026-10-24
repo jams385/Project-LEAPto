@@ -1,0 +1,11 @@
+horizon,model,scope,auc
+1,final_model,all weeks,0.849249
+2,final_model,all weeks,0.838474
+1,final_model,within city,0.773882
+2,final_model,within city,0.761136
+1,rain_only,all weeks,0.786515
+2,rain_only,all weeks,0.78257
+1,seasonal_only,all weeks,0.750854
+2,seasonal_only,all weeks,0.750854
+1,seasonal_only,within city,0.666127
+2,seasonal_only,within city,0.666127

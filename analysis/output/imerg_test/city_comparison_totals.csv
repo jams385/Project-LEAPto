@@ -1,0 +1,15 @@
+product,event,city,imerg_city_total,chirps_city_total,imerg_peak_day,chirps_peak_day
+final,Washi 2011,Cagayan de Oro,128.9,58.1,113.9,38.8
+final,Ondoy 2009,Mandaluyong,270.3,235.1,140.9,128.2
+final,Ondoy 2009,Muntinlupa,280.3,260.9,141.9,128.1
+final,Ondoy 2009,Navotas,258.3,253,149.3,133.6
+final,Habagat 2012,Mandaluyong,602,550.8,161.3,186.7
+final,Habagat 2012,Muntinlupa,486.9,499.3,197.1,172.8
+final,Habagat 2012,Navotas,640.7,635,201.2,195.3
+late,Washi 2011,Cagayan de Oro,164.5,58.1,146,38.8
+late,Ondoy 2009,Mandaluyong,254.6,235.1,128.4,128.2
+late,Ondoy 2009,Muntinlupa,306.2,260.9,153,128.1
+late,Ondoy 2009,Navotas,262.4,253,143,133.6
+late,Habagat 2012,Mandaluyong,483.9,550.8,141.6,186.7
+late,Habagat 2012,Muntinlupa,354.9,499.3,150.3,172.8
+late,Habagat 2012,Navotas,493.9,635,157.7,195.3

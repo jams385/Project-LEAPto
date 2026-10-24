@@ -1,0 +1,197 @@
+02:57:09 | Flood forecasts: 36 origin x horizon jobs on 2 cores 
+02:57:32 | origin 2013 h 2  g 0.317  LR 11.04  23s
+02:57:32 | origin 2013 h 1  g 0.267  LR 6.93  23s
+02:57:56 | origin 2013 h 3  g 0.396  LR 3.09  24s
+02:58:05 | origin 2013 h 4  g 0.719  LR 8.18  33s
+02:58:22 | origin 2014 h 1  g 0.189  LR 3.60  26s
+02:58:32 | origin 2014 h 2  g 0.243  LR 6.47  27s
+02:58:48 | origin 2014 h 3  g 0.182  LR 0.88  26s
+02:59:14 | origin 2014 h 4  g 0.722  LR 0.99  42s
+02:59:20 | origin 2015 h 1  g 0.249  LR 6.17  32s
+02:59:46 | origin 2015 h 2  g 0.279  LR 8.13  32s
+02:59:52 | origin 2015 h 3  g 0.207  LR 1.42  32s
+03:00:18 | origin 2015 h 4  g 0.293  LR 0.53  31s
+03:00:26 | origin 2016 h 1  g 0.250  LR 7.12  34s
+03:00:52 | origin 2016 h 2  g 0.270  LR 8.96  35s
+03:01:02 | origin 2016 h 3  g 0.233  LR 2.19  35s
+03:01:27 | origin 2016 h 4  g 0.342  LR 0.95  35s
+03:01:42 | origin 2017 h 1  g 0.228  LR 6.10  40s
+03:02:09 | origin 2017 h 2  g 0.246  LR 7.82  41s
+03:02:18 | origin 2017 h 3  g 0.201  LR 1.98  37s
+03:02:53 | origin 2017 h 4  g 0.182  LR 0.38  44s
+03:03:10 | origin 2018 h 1  g 0.253  LR 9.89  52s
+03:03:44 | origin 2018 h 2  g 0.247  LR 9.65  51s
+03:03:58 | origin 2018 h 3  g 0.189  LR 1.94  47s
+03:04:37 | origin 2018 h 4  g 0.001  LR -0.00  53s
+03:04:56 | origin 2019 h 1  g 0.235  LR 8.31  58s
+03:05:35 | origin 2019 h 2  g 0.225  LR 7.94  58s
+03:05:54 | origin 2019 h 3  g 0.154  LR 1.38  58s
+03:06:32 | origin 2019 h 4  g -0.029  LR 0.01  57s
+03:06:56 | origin 2020 h 1  g 0.211  LR 7.39  62s
+03:07:43 | origin 2020 h 2  g 0.202  LR 6.84  71s
+03:07:58 | origin 2020 h 3  g 0.122  LR 1.00  62s
+03:08:46 | origin 2020 h 4  g -0.043  LR 0.04  63s
+03:09:16 | origin 2021 h 1  g 0.202  LR 7.74  78s
+03:09:48 | origin 2021 h 2  g 0.189  LR 6.67  62s
+03:10:25 | origin 2021 h 3  g 0.090  LR 0.56  69s
+03:10:57 | origin 2021 h 4  g -0.177  LR 0.70  69s
+    origin h             g      lr_train
+ 1:   2013 1  0.2674574876  6.932776e+00
+ 2:   2014 1  0.1885163747  3.599016e+00
+ 3:   2015 1  0.2488096874  6.166367e+00
+ 4:   2016 1  0.2504657156  7.119278e+00
+ 5:   2017 1  0.2275416627  6.099685e+00
+ 6:   2018 1  0.2529931570  9.889440e+00
+ 7:   2019 1  0.2352784584  8.309530e+00
+ 8:   2020 1  0.2106195519  7.391010e+00
+ 9:   2021 1  0.2020027462  7.735140e+00
+10:   2013 2  0.3169856116  1.104164e+01
+11:   2014 2  0.2427229283  6.465897e+00
+12:   2015 2  0.2789257071  8.132794e+00
+13:   2016 2  0.2704763774  8.961224e+00
+14:   2017 2  0.2459395620  7.820930e+00
+15:   2018 2  0.2467541459  9.651719e+00
+16:   2019 2  0.2246608793  7.935733e+00
+17:   2020 2  0.2018497137  6.838311e+00
+18:   2021 2  0.1885163747  6.667853e+00
+19:   2013 3  0.3955367042  3.085723e+00
+20:   2014 3  0.1818497052  8.829254e-01
+21:   2015 3  0.2068754693  1.424898e+00
+22:   2016 3  0.2331776075  2.186522e+00
+23:   2017 3  0.2012314447  1.980310e+00
+24:   2018 3  0.1885163747  1.935016e+00
+25:   2019 3  0.1535524163  1.379814e+00
+26:   2020 3  0.1220964762  1.000218e+00
+27:   2021 3  0.0897891536  5.556232e-01
+28:   2013 4  0.7189657862  8.176666e+00
+29:   2014 4  0.7220520998  9.866211e-01
+30:   2015 4  0.2931353598  5.293821e-01
+31:   2016 4  0.3416932368  9.463291e-01
+32:   2017 4  0.1815821897  3.767881e-01
+33:   2018 4  0.0006354275 -4.321437e-05
+34:   2019 4 -0.0292302497  1.169649e-02
+35:   2020 4 -0.0427556233  3.646910e-02
+36:   2021 4 -0.1767084997  7.012231e-01
+    origin h             g      lr_train
+   h gain_per_week           lo           hi city_years_better city_years
+1: 1  -0.001182854 -0.004019447 0.0013546970                43        106
+2: 2  -0.001349194 -0.004253325 0.0014215675                48        106
+3: 3  -0.001127368 -0.002858774 0.0005500886                47        106
+4: 4  -0.001553977 -0.003717268 0.0004203072                51        106
+            variant h                        scope       auc
+ 1:       pooled_ar 1        All weeks, all cities 0.8130694
+ 2: pooled_ar_flood 1        All weeks, all cities 0.8121903
+ 3:        seasonal 1        All weeks, all cities 0.7508543
+ 4:       pooled_ar 2        All weeks, all cities 0.7974032
+ 5: pooled_ar_flood 2        All weeks, all cities 0.7967019
+ 6:        seasonal 2        All weeks, all cities 0.7508543
+ 7:       pooled_ar 3        All weeks, all cities 0.7792618
+ 8: pooled_ar_flood 3        All weeks, all cities 0.7785837
+ 9:        seasonal 3        All weeks, all cities 0.7508543
+10:       pooled_ar 4        All weeks, all cities 0.7645753
+11: pooled_ar_flood 4        All weeks, all cities 0.7635746
+12:        seasonal 4        All weeks, all cities 0.7508543
+13:       pooled_ar 1    Within city, rainy season 0.7076563
+14: pooled_ar_flood 1    Within city, rainy season 0.7063125
+15:        seasonal 1    Within city, rainy season 0.6269124
+16:       pooled_ar 2    Within city, rainy season 0.6862467
+17: pooled_ar_flood 2    Within city, rainy season 0.6831979
+18:        seasonal 2    Within city, rainy season 0.6269124
+19:       pooled_ar 3    Within city, rainy season 0.6467049
+20: pooled_ar_flood 3    Within city, rainy season 0.6442448
+21:        seasonal 3    Within city, rainy season 0.6269124
+22:       pooled_ar 4    Within city, rainy season 0.6252390
+23: pooled_ar_flood 4    Within city, rainy season 0.6227653
+24:        seasonal 4    Within city, rainy season 0.6269124
+25:       pooled_ar 1 Within each city (mean of 9) 0.7322653
+26: pooled_ar_flood 1 Within each city (mean of 9) 0.7339731
+27:        seasonal 1 Within each city (mean of 9) 0.6661275
+28:       pooled_ar 2 Within each city (mean of 9) 0.7166093
+29: pooled_ar_flood 2 Within each city (mean of 9) 0.7175659
+30:        seasonal 2 Within each city (mean of 9) 0.6661275
+31:       pooled_ar 3 Within each city (mean of 9) 0.6948529
+32: pooled_ar_flood 3 Within each city (mean of 9) 0.6940967
+33:        seasonal 3 Within each city (mean of 9) 0.6661275
+34:       pooled_ar 4 Within each city (mean of 9) 0.6761288
+35: pooled_ar_flood 4 Within each city (mean of 9) 0.6723857
+36:        seasonal 4 Within each city (mean of 9) 0.6661275
+            variant h                        scope       auc
+            variant h        grp         threshold weeks outbreak_weeks alerts
+ 1:       pooled_ar 1 All cities Outbreak-excluded  5372            370   1384
+ 2: pooled_ar_flood 1 All cities Outbreak-excluded  5372            370   1568
+ 3:        seasonal 1 All cities Outbreak-excluded  5372            370   1370
+ 4:       pooled_ar 2 All cities Outbreak-excluded  5372            370   1613
+ 5: pooled_ar_flood 2 All cities Outbreak-excluded  5372            370   1598
+ 6:        seasonal 2 All cities Outbreak-excluded  5372            370   1370
+ 7:       pooled_ar 3 All cities Outbreak-excluded  5372            370   1389
+ 8: pooled_ar_flood 3 All cities Outbreak-excluded  5372            370   1382
+ 9:        seasonal 3 All cities Outbreak-excluded  5372            370   1370
+10:       pooled_ar 4 All cities Outbreak-excluded  5372            370   1379
+11: pooled_ar_flood 4 All cities Outbreak-excluded  5372            370   1408
+12:        seasonal 4 All cities Outbreak-excluded  5372            370   1370
+    sensitivity specificity precision false_alarms_per_city_year
+ 1:   0.6783784   0.7734906 0.1813584                   10.68868
+ 2:   0.7027027   0.7385046 0.1658163                   12.33962
+ 3:   0.6297297   0.7726909 0.1700730                   10.72642
+ 4:   0.7135135   0.7303079 0.1636702                   12.72642
+ 5:   0.7027027   0.7325070 0.1627034                   12.62264
+ 6:   0.6297297   0.7726909 0.1700730                   10.72642
+ 7:   0.6594595   0.7710916 0.1756659                   10.80189
+ 8:   0.6486486   0.7716913 0.1736614                   10.77358
+ 9:   0.6297297   0.7726909 0.1700730                   10.72642
+10:   0.6270270   0.7706917 0.1682379                   10.82075
+11:   0.6432432   0.7660936 0.1690341                   11.03774
+12:   0.6297297   0.7726909 0.1700730                   10.72642
+            variant h cut alerts sensitivity precision
+ 1:       pooled_ar 1 0.1   1174   0.6189189 0.1950596
+ 2: pooled_ar_flood 1 0.1   1172   0.6108108 0.1928328
+ 3:        seasonal 1 0.1   1307   0.5837838 0.1652640
+ 4:       pooled_ar 2 0.1   1181   0.5945946 0.1862828
+ 5: pooled_ar_flood 2 0.1   1179   0.5972973 0.1874470
+ 6:        seasonal 2 0.1   1307   0.5837838 0.1652640
+ 7:       pooled_ar 1 0.2    628   0.4756757 0.2802548
+ 8: pooled_ar_flood 1 0.2    622   0.4729730 0.2813505
+ 9:        seasonal 1 0.2    697   0.4000000 0.2123386
+10:       pooled_ar 2 0.2    643   0.4486486 0.2581649
+11: pooled_ar_flood 2 0.2    640   0.4432432 0.2562500
+12:        seasonal 2 0.2    697   0.4000000 0.2123386
+13:       pooled_ar 1 0.3    356   0.3297297 0.3426966
+14: pooled_ar_flood 1 0.3    360   0.3351351 0.3444444
+15:        seasonal 1 0.3    416   0.2486486 0.2211538
+16:       pooled_ar 2 0.3    388   0.3324324 0.3170103
+17: pooled_ar_flood 2 0.3    388   0.3351351 0.3195876
+18:        seasonal 2 0.3    416   0.2486486 0.2211538
+    false_alarms_per_city_year
+ 1:                   8.915094
+ 2:                   8.924528
+ 3:                  10.292453
+ 4:                   9.066038
+ 5:                   9.037736
+ 6:                  10.292453
+ 7:                   4.264151
+ 8:                   4.216981
+ 9:                   5.179245
+10:                   4.500000
+11:                   4.490566
+12:                   5.179245
+13:                   2.207547
+14:                   2.226415
+15:                   3.056604
+16:                   2.500000
+17:                   2.490566
+18:                   3.056604
+              city pooled_ar pooled_ar_flood  seasonal          gain
+ 1:        Dagupan 0.9543106       0.9459679 1.0116167  8.342750e-03
+ 2:      Zamboanga 1.2432766       1.2391370 1.3025936  4.139631e-03
+ 3:       Tacloban 0.4752559       0.4714736 0.4952659  3.782275e-03
+ 4:        Legazpi 0.4035059       0.4006875 0.4073171  2.818413e-03
+ 5:          Davao 1.3918866       1.3919517 1.4348169 -6.512256e-05
+ 6:        Mandaue 0.3558944       0.3564770 0.3609753 -5.826361e-04
+ 7:        Palayan 0.1867810       0.1877960 0.1888416 -1.014920e-03
+ 8:         Iloilo 1.9305979       1.9317806 2.1974492 -1.182637e-03
+ 9:    Mandaluyong 0.5261322       0.5286471 0.5962171 -2.514839e-03
+10: Cagayan de Oro 0.9851909       0.9892356 0.9980551 -4.044716e-03
+11:     Muntinlupa 0.5344431       0.5415535 0.6133399 -7.110454e-03
+12:        Navotas 0.9207729       0.9383627 0.9556190 -1.758988e-02
+Error: object 'GREY' not found
+Execution halted

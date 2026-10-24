@@ -1,0 +1,13 @@
+event,city,version,weeks_in_window,cases,threshold_available,first_week_above,first_above_mw,weeks_above,cases_in_weeks_above,median_threshold
+Cagayan de Oro after Typhoon Washi,Cagayan de Oro,std5,8,779,FALSE,,,0,0,
+Cagayan de Oro after Typhoon Washi,Cagayan de Oro,exc5,8,779,FALSE,,,0,0,
+Cagayan de Oro after Typhoon Washi,Cagayan de Oro,std3,8,779,TRUE,2011-12-18,2011 MW51,5,774,13.7
+Cagayan de Oro after Typhoon Washi,Cagayan de Oro,exc3,8,779,TRUE,2011-12-18,2011 MW51,5,774,13.7
+Navotas July 2018,Navotas,std5,11,38,TRUE,2018-06-17,2018 MW25,7,30,2.6
+Navotas July 2018,Navotas,exc5,11,38,TRUE,2018-06-17,2018 MW25,9,37,1.1
+Navotas July 2018,Navotas,std3,11,38,TRUE,2018-06-17,2018 MW25,9,37,1.2
+Navotas July 2018,Navotas,exc3,11,38,TRUE,2018-06-17,2018 MW25,9,37,1
+Iloilo 2011-2012 outbreak,Iloilo,std5,104,1942,FALSE,,,0,0,
+Iloilo 2011-2012 outbreak,Iloilo,exc5,104,1942,FALSE,,,0,0,
+Iloilo 2011-2012 outbreak,Iloilo,std3,104,1942,TRUE,2011-01-23,2011 MW4,43,1582,13.7
+Iloilo 2011-2012 outbreak,Iloilo,exc3,104,1942,TRUE,2011-01-23,2011 MW4,48,1669,6.7

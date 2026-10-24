@@ -1,0 +1,42 @@
+08:08:35 | Fitting hindsight model (Stage 3 main, all years) 
+08:08:53 | Simulating 200 histories 
+                                            level auc_within_city   auc_all
+1:             1. Current forecast (1 week ahead)       0.7322653 0.8130694
+2: 2. Hindsight model (all years, real outbreaks)       0.8318322 0.8868788
+3:            3. Ceiling B (knows hindsight risk)       0.8559017 0.8921279
+4:          4. Ceiling A (knows true weekly rate)       0.9463163 0.9585488
+   outbreak_share weekly_error yearly_error
+1:     0.06887565    1.1850099    0.6714257
+2:     0.06887565    0.9958178    0.2753518
+3:     0.07387100    0.9806132    0.1995607
+4:     0.07387100    0.6166764    0.1188012
+                                             level cut sensitivity precision
+ 1:             1. Current forecast (1 week ahead) 0.1   0.6189189 0.1950596
+ 2: 2. Hindsight model (all years, real outbreaks) 0.1   0.7810811 0.2424497
+ 3:            3. Ceiling B (knows hindsight risk) 0.1   0.7857104 0.2615185
+ 4:          4. Ceiling A (knows true weekly rate) 0.1   0.8786358 0.3984997
+ 5:             1. Current forecast (1 week ahead) 0.2   0.4756757 0.2802548
+ 6: 2. Hindsight model (all years, real outbreaks) 0.2   0.5918919 0.3481717
+ 7:            3. Ceiling B (knows hindsight risk) 0.2   0.5823793 0.3672655
+ 8:          4. Ceiling A (knows true weekly rate) 0.2   0.7753477 0.5218809
+ 9:             1. Current forecast (1 week ahead) 0.3   0.3297297 0.3426966
+10: 2. Hindsight model (all years, real outbreaks) 0.3   0.4351351 0.4351351
+11:            3. Ceiling B (knows hindsight risk) 0.3   0.4230829 0.4535946
+12:          4. Ceiling A (knows true weekly rate) 0.3   0.6817332 0.6182430
+    false_alarms
+ 1:     8.915094
+ 2:     8.518868
+ 3:     8.304434
+ 4:     4.964528
+ 5:     4.264151
+ 6:     3.867925
+ 7:     3.754623
+ 8:     2.659245
+ 9:     2.207547
+10:     1.971698
+11:     1.907264
+12:     1.576179
+                                   level auc_within_lo auc_within_hi
+1:   3. Ceiling B (knows hindsight risk)     0.8398310     0.8726719
+2: 4. Ceiling A (knows true weekly rate)     0.9355183     0.9547668
+08:08:59 | Done 

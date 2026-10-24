@@ -1,0 +1,27 @@
+city,cases,attributable,lo,hi,pct,pct_lo,pct_hi,rain_counted
+Cagayan de Oro,1054,490.6,406,563.3,46.5,38.5,53.4,Any rain above a typical week
+Dagupan,508,369,343.1,389.3,72.6,67.5,76.6,Any rain above a typical week
+Davao,843,236.2,169.5,297.5,28,20.1,35.3,Any rain above a typical week
+Iloilo,3948,1791.5,1395.2,2145.3,45.4,35.3,54.3,Any rain above a typical week
+Legazpi,60,26.8,22.2,30.6,44.7,37,51,Any rain above a typical week
+Mandaluyong,175,113.6,100.6,123.8,64.9,57.5,70.7,Any rain above a typical week
+Mandaue,39,15.8,12.4,18.9,40.5,31.8,48.5,Any rain above a typical week
+Muntinlupa,221,152.4,137.7,164.2,69,62.3,74.3,Any rain above a typical week
+Navotas,471,311.8,284.7,333.9,66.2,60.4,70.9,Any rain above a typical week
+Palayan,62,29.5,23,34.8,47.6,37.1,56.1,Any rain above a typical week
+Tacloban,122,63.1,54.8,70.7,51.7,44.9,58,Any rain above a typical week
+Zamboanga,530,174.8,132.9,212,33,25.1,40,Any rain above a typical week
+total,8033,3775.1,3094.8,4370,47,38.5,54.4,Any rain above a typical week
+Cagayan de Oro,1054,300.4,254.2,342.3,28.5,24.1,32.5,Heavy rain only (city's wettest 5% of weeks)
+Dagupan,508,282.8,268.4,296.5,55.7,52.8,58.4,Heavy rain only (city's wettest 5% of weeks)
+Davao,843,100.4,82,119.8,11.9,9.7,14.2,Heavy rain only (city's wettest 5% of weeks)
+Iloilo,3948,672.2,584.2,778.6,17,14.8,19.7,Heavy rain only (city's wettest 5% of weeks)
+Legazpi,60,8.4,7.5,9.6,14,12.5,16,Heavy rain only (city's wettest 5% of weeks)
+Mandaluyong,175,74.6,69.5,80.5,42.6,39.7,46,Heavy rain only (city's wettest 5% of weeks)
+Mandaue,39,7.7,6.6,8.7,19.7,16.9,22.3,Heavy rain only (city's wettest 5% of weeks)
+Muntinlupa,221,111.5,104.1,118.2,50.5,47.1,53.5,Heavy rain only (city's wettest 5% of weeks)
+Navotas,471,224.7,212.1,236.3,47.7,45,50.2,Heavy rain only (city's wettest 5% of weeks)
+Palayan,62,17.4,14.1,20.7,28.1,22.7,33.4,Heavy rain only (city's wettest 5% of weeks)
+Tacloban,122,37,33.6,40.1,30.3,27.5,32.9,Heavy rain only (city's wettest 5% of weeks)
+Zamboanga,530,42.7,36.4,50.4,8.1,6.9,9.5,Heavy rain only (city's wettest 5% of weeks)
+total,8033,1879.7,1686.6,2081,23.4,21,25.9,Heavy rain only (city's wettest 5% of weeks)

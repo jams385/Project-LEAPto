@@ -1,0 +1,70 @@
+# What the app needs to run is committed: app/ (including app/static/), src/, tests/,
+# scripts/, data/processed/, data/model_outputs/, .streamlit/config.toml, requirements*.txt,
+# .python-version, README.md and docs/. Everything below is local-only or regenerable.
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets (Streamlit's secrets file and environment files)
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+logs/
+
+# Playwright output and screenshots
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+screenshots/
+shots/
+
+# Scratch files
+scratch/
+tmp/
+*.tmp
+*.bak
+*.orig
+
+# Local-only notes and design exports
+CLAUDE.md
+design/v3/*.dc.html
+docs/CODE_TOUR.md
+ph_satellite.png
+
+docs/
+
+# Raw and large data. The raw Project CCHAIN CSVs (climate_atmosphere.csv is ~570 MB, over
+# GitHub's 100 MB limit) are downloaded by hand; see the README. data/processed/ (~1 MB) and
+# data/model_outputs/ (~4 MB) ARE committed.
+data/raw/
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz

@@ -1,0 +1,7 @@
+city,event,date,flow_m3s,percentile_all_days,rank_in_its_year,typical_flow_m3s
+Cagayan de Oro,Typhoon Washi (Sendong),2011-12-16,332.7,98.01,20,84.5
+Mandaluyong,Typhoon Ketsana (Ondoy),2009-09-26,1752.9,99.94,3,58.5
+Navotas,Typhoon Ketsana (Ondoy),2009-09-26,392.5,99.96,2,7.6
+Mandaluyong,2012 southwest monsoon (Habagat) floods,2012-08-07,746.6,97.79,14,58.5
+Iloilo,Typhoon Fengshen (Frank),2008-06-21,58.8,93.47,11,18.1
+Dagupan,Typhoon Parma (Pepeng),2009-10-08,887.1,99.96,1,9.1

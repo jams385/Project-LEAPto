@@ -1,0 +1,18 @@
+# Paths starting with "/" are relative to this folder only, so they won't
+# affect the app's folders elsewhere in the repo.
+
+# Large source data: too big for GitHub, download it again (see README)
+/data/raw/
+/data/external/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+
+# macOS
+.DS_Store

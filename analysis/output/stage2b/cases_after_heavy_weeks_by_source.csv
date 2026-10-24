@@ -1,0 +1,4 @@
+heavy_in,weeks,cases_next4,expected_next4,obs_over_exp,weeks_without_CDO,obs_over_exp_without_CDO
+CHIRPS only,200,2644,1555,1.7,171,1.73
+IMERG only,201,1869,1076,1.74,172,1.12
+both,253,2352,1366,1.72,243,1.72

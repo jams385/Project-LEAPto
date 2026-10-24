@@ -1,0 +1,5 @@
+variant,season,observed,forecast,error
+pooled_ar4_lvl,December-January,47,292.7,5.23
+pooled_ar4_lvl_nw,December-January,47,47.2,0
+pooled_ar4_lvl,February-November,140,142.5,0.02
+pooled_ar4_lvl_nw,February-November,140,116.2,-0.17

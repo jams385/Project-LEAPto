@@ -1,0 +1,619 @@
+01:07:58 | Main runs: 180 fits on 2 cores 
+01:08:01 | origin 2013 h 1 pooled       pr_week_iml->pr_week_iml delay 1  3s 
+01:08:01 | origin 2013 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:08:05 | origin 2013 h 1 regional     pr_week_iml->pr_week_iml delay 1  4s 
+01:08:05 | origin 2013 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  4s 
+01:08:07 | origin 2013 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:08:09 | origin 2013 h 2 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:08:10 | origin 2013 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  3s 
+01:08:12 | origin 2013 h 2 regional     pr_week_iml->pr_week_iml delay 1  4s 
+01:08:14 | origin 2013 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  4s 
+01:08:14 | origin 2013 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:08:17 | origin 2013 h 3 pooled       pr_week_iml->pr_week_iml delay 1  3s 
+01:08:18 | origin 2013 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  3s 
+01:08:22 | origin 2013 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  4s 
+01:08:22 | origin 2013 h 3 regional     pr_week_iml->pr_week_iml delay 1  4s 
+01:08:23 | origin 2013 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:08:25 | origin 2013 h 4 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:08:27 | origin 2013 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:08:30 | origin 2013 h 4 regional     pr_week_iml->pr_week_iml delay 1  4s 
+01:08:31 | origin 2013 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  4s 
+01:08:31 | origin 2013 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:08:35 | origin 2014 h 1 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:08:36 | origin 2014 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:08:40 | origin 2014 h 1 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:08:40 | origin 2014 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:08:42 | origin 2014 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:08:44 | origin 2014 h 2 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:08:47 | origin 2014 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:08:49 | origin 2014 h 2 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:08:51 | origin 2014 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:08:52 | origin 2014 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:08:55 | origin 2014 h 3 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:08:56 | origin 2014 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:09:00 | origin 2014 h 3 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:09:00 | origin 2014 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:09:02 | origin 2014 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:09:05 | origin 2014 h 4 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:09:07 | origin 2014 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:09:09 | origin 2014 h 4 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:09:11 | origin 2014 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:09:12 | origin 2014 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:09:16 | origin 2015 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:09:16 | origin 2015 h 1 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:09:22 | origin 2015 h 1 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:09:22 | origin 2015 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  6s 
+01:09:24 | origin 2015 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:09:26 | origin 2015 h 2 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:09:29 | origin 2015 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:09:32 | origin 2015 h 2 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:09:34 | origin 2015 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:09:34 | origin 2015 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:09:38 | origin 2015 h 3 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:09:39 | origin 2015 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:09:43 | origin 2015 h 3 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:09:44 | origin 2015 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:09:46 | origin 2015 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:09:49 | origin 2015 h 4 pooled       pr_week_iml->pr_week_iml delay 1  4s 
+01:09:50 | origin 2015 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  4s 
+01:09:54 | origin 2015 h 4 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:09:55 | origin 2015 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  5s 
+01:09:56 | origin 2015 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  2s 
+01:10:00 | origin 2016 h 1 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:10:01 | origin 2016 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:10:05 | origin 2016 h 1 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:10:06 | origin 2016 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  6s 
+01:10:08 | origin 2016 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:10:11 | origin 2016 h 2 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:10:13 | origin 2016 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:10:17 | origin 2016 h 2 regional     pr_week_iml->pr_week_iml delay 1  5s 
+01:10:18 | origin 2016 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  6s 
+01:10:19 | origin 2016 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:10:23 | origin 2016 h 3 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:10:24 | origin 2016 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:10:30 | origin 2016 h 3 regional     pr_week_iml->pr_week_iml delay 1  6s 
+01:10:31 | origin 2016 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  6s 
+01:10:33 | origin 2016 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:10:36 | origin 2016 h 4 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:10:38 | origin 2016 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  5s 
+01:10:42 | origin 2016 h 4 regional     pr_week_iml->pr_week_iml delay 1  6s 
+01:10:44 | origin 2016 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  6s 
+01:10:45 | origin 2016 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:10:50 | origin 2017 h 1 pooled       pr_week_iml->pr_week_iml delay 1  6s 
+01:10:51 | origin 2017 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  6s 
+01:10:56 | origin 2017 h 1 regional     pr_week_iml->pr_week_iml delay 1  7s 
+01:10:58 | origin 2017 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  7s 
+01:11:00 | origin 2017 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:11:04 | origin 2017 h 2 pooled       pr_week_iml->pr_week_iml delay 1  6s 
+01:11:06 | origin 2017 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  6s 
+01:11:10 | origin 2017 h 2 regional     pr_week_iml->pr_week_iml delay 1  6s 
+01:11:13 | origin 2017 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  7s 
+01:11:14 | origin 2017 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:11:19 | origin 2017 h 3 pooled       pr_week_iml->pr_week_iml delay 1  6s 
+01:11:20 | origin 2017 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  6s 
+01:11:26 | origin 2017 h 3 regional     pr_week_iml->pr_week_iml delay 1  7s 
+01:11:27 | origin 2017 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  7s 
+01:11:29 | origin 2017 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:11:32 | origin 2017 h 4 pooled       pr_week_iml->pr_week_iml delay 1  5s 
+01:11:35 | origin 2017 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  6s 
+01:11:39 | origin 2017 h 4 regional     pr_week_iml->pr_week_iml delay 1  7s 
+01:11:41 | origin 2017 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  7s 
+01:11:42 | origin 2017 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  3s 
+01:11:48 | origin 2018 h 1 pooled       pr_week_iml->pr_week_iml delay 1  7s 
+01:11:49 | origin 2018 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  7s 
+01:11:56 | origin 2018 h 1 regional     pr_week_iml->pr_week_iml delay 1  8s 
+01:11:57 | origin 2018 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  8s 
+01:12:00 | origin 2018 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:12:05 | origin 2018 h 2 pooled       pr_week_iml->pr_week_iml delay 1  7s 
+01:12:07 | origin 2018 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  7s 
+01:12:13 | origin 2018 h 2 regional     pr_week_iml->pr_week_iml delay 1  8s 
+01:12:15 | origin 2018 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  8s 
+01:12:17 | origin 2018 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:12:22 | origin 2018 h 3 pooled       pr_week_iml->pr_week_iml delay 1  7s 
+01:12:24 | origin 2018 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  7s 
+01:12:30 | origin 2018 h 3 regional     pr_week_iml->pr_week_iml delay 1  8s 
+01:12:32 | origin 2018 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  8s 
+01:12:35 | origin 2018 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:12:39 | origin 2018 h 4 pooled       pr_week_iml->pr_week_iml delay 1  8s 
+01:12:42 | origin 2018 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  7s 
+01:12:47 | origin 2018 h 4 regional     pr_week_iml->pr_week_iml delay 1  8s 
+01:12:49 | origin 2018 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  8s 
+01:12:51 | origin 2018 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:12:57 | origin 2019 h 1 pooled       pr_week_iml->pr_week_iml delay 1  8s 
+01:12:59 | origin 2019 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  8s 
+01:13:06 | origin 2019 h 1 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:13:08 | origin 2019 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  9s 
+01:13:10 | origin 2019 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:13:16 | origin 2019 h 2 pooled       pr_week_iml->pr_week_iml delay 1  8s 
+01:13:18 | origin 2019 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  8s 
+01:13:24 | origin 2019 h 2 regional     pr_week_iml->pr_week_iml delay 1  8s 
+01:13:26 | origin 2019 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  8s 
+01:13:29 | origin 2019 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:13:34 | origin 2019 h 3 pooled       pr_week_iml->pr_week_iml delay 1  8s 
+01:13:38 | origin 2019 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  8s 
+01:13:43 | origin 2019 h 3 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:13:47 | origin 2019 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  9s 
+01:13:47 | origin 2019 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:13:54 | origin 2019 h 4 pooled       pr_week_iml->pr_week_iml delay 1  7s 
+01:13:55 | origin 2019 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  8s 
+01:14:03 | origin 2019 h 4 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:14:03 | origin 2019 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  8s 
+01:14:07 | origin 2019 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:14:12 | origin 2020 h 1 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:14:16 | origin 2020 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  9s 
+01:14:21 | origin 2020 h 1 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:14:26 | origin 2020 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:14:26 | origin 2020 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  10s 
+01:14:35 | origin 2020 h 2 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:14:36 | origin 2020 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  10s 
+01:14:44 | origin 2020 h 2 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:14:45 | origin 2020 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  9s 
+01:14:49 | origin 2020 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:14:53 | origin 2020 h 3 pooled       pr_week_iml->pr_week_iml delay 1  8s 
+01:14:57 | origin 2020 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  8s 
+01:15:02 | origin 2020 h 3 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:15:06 | origin 2020 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  9s 
+01:15:07 | origin 2020 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  4s 
+01:15:14 | origin 2020 h 4 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:15:15 | origin 2020 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  8s 
+01:15:24 | origin 2020 h 4 regional     pr_week_iml->pr_week_iml delay 1  9s 
+01:15:24 | origin 2020 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  9s 
+01:15:29 | origin 2020 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:15:34 | origin 2021 h 1 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:15:39 | origin 2021 h 1 pooled_ar    pr_week_iml->pr_week_iml delay 1  10s 
+01:15:44 | origin 2021 h 1 regional     pr_week_iml->pr_week_iml delay 1  11s 
+01:15:50 | origin 2021 h 1 seasonal     pr_week_iml->pr_week_iml delay 1  6s 
+01:15:50 | origin 2021 h 1 regional_ar  pr_week_iml->pr_week_iml delay 1  12s 
+01:15:59 | origin 2021 h 2 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:16:00 | origin 2021 h 2 pooled_ar    pr_week_iml->pr_week_iml delay 1  9s 
+01:16:09 | origin 2021 h 2 regional     pr_week_iml->pr_week_iml delay 1  10s 
+01:16:09 | origin 2021 h 2 regional_ar  pr_week_iml->pr_week_iml delay 1  10s 
+01:16:15 | origin 2021 h 2 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:16:18 | origin 2021 h 3 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:16:24 | origin 2021 h 3 pooled_ar    pr_week_iml->pr_week_iml delay 1  9s 
+01:16:28 | origin 2021 h 3 regional     pr_week_iml->pr_week_iml delay 1  10s 
+01:16:33 | origin 2021 h 3 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:16:34 | origin 2021 h 3 regional_ar  pr_week_iml->pr_week_iml delay 1  10s 
+01:16:42 | origin 2021 h 4 pooled       pr_week_iml->pr_week_iml delay 1  9s 
+01:16:43 | origin 2021 h 4 pooled_ar    pr_week_iml->pr_week_iml delay 1  9s 
+01:16:53 | origin 2021 h 4 regional     pr_week_iml->pr_week_iml delay 1  10s 
+01:16:53 | origin 2021 h 4 regional_ar  pr_week_iml->pr_week_iml delay 1  10s 
+01:16:58 | origin 2021 h 4 seasonal     pr_week_iml->pr_week_iml delay 1  5s 
+01:17:04 | Scoring 
+01:17:06 | Best variant by log score (h 1-2): regional_ar 
+01:17:06 | Checks for regional_ar 
+01:17:09 | origin 2013 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  3s 
+01:17:09 | origin 2013 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  3s 
+01:17:13 | origin 2013 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  3s 
+01:17:13 | origin 2013 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:17 | origin 2014 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:17 | origin 2014 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:21 | origin 2014 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:21 | origin 2014 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:25 | origin 2015 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  5s 
+01:17:25 | origin 2015 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:29 | origin 2015 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  4s 
+01:17:30 | origin 2015 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  5s 
+01:17:34 | origin 2016 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  5s 
+01:17:35 | origin 2016 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  5s 
+01:17:40 | origin 2016 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  5s 
+01:17:40 | origin 2016 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  5s 
+01:17:46 | origin 2017 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  6s 
+01:17:46 | origin 2017 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  6s 
+01:17:52 | origin 2017 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  6s 
+01:17:52 | origin 2017 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  6s 
+01:17:59 | origin 2018 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  7s 
+01:17:59 | origin 2018 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  7s 
+01:18:06 | origin 2018 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  7s 
+01:18:06 | origin 2018 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  7s 
+01:18:14 | origin 2019 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  8s 
+01:18:15 | origin 2019 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  8s 
+01:18:22 | origin 2019 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  8s 
+01:18:23 | origin 2019 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  8s 
+01:18:31 | origin 2020 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  8s 
+01:18:32 | origin 2020 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  9s 
+01:18:39 | origin 2020 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  9s 
+01:18:40 | origin 2020 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  8s 
+01:18:48 | origin 2021 h 1 regional_ar  pr_week_imf->pr_week_imf delay 1  9s 
+01:18:49 | origin 2021 h 2 regional_ar  pr_week_imf->pr_week_imf delay 1  9s 
+01:18:58 | origin 2021 h 3 regional_ar  pr_week_imf->pr_week_imf delay 1  9s 
+01:18:58 | origin 2021 h 4 regional_ar  pr_week_imf->pr_week_imf delay 1  9s 
+01:19:01 | origin 2013 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  3s 
+01:19:02 | origin 2013 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  3s 
+01:19:05 | origin 2013 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  3s 
+01:19:05 | origin 2013 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  3s 
+01:19:09 | origin 2014 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  4s 
+01:19:09 | origin 2014 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  4s 
+01:19:13 | origin 2014 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  4s 
+01:19:13 | origin 2014 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  4s 
+01:19:18 | origin 2015 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:18 | origin 2015 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:23 | origin 2015 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:23 | origin 2015 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:28 | origin 2016 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:28 | origin 2016 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:33 | origin 2016 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:33 | origin 2016 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  5s 
+01:19:39 | origin 2017 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  6s 
+01:19:39 | origin 2017 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  6s 
+01:19:45 | origin 2017 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  6s 
+01:19:45 | origin 2017 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  6s 
+01:19:52 | origin 2018 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  7s 
+01:19:52 | origin 2018 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  7s 
+01:19:59 | origin 2018 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  7s 
+01:19:59 | origin 2018 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  7s 
+01:20:07 | origin 2019 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  8s 
+01:20:07 | origin 2019 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  8s 
+01:20:15 | origin 2019 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  8s 
+01:20:15 | origin 2019 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  8s 
+01:20:23 | origin 2020 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  8s 
+01:20:24 | origin 2020 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  9s 
+01:20:31 | origin 2020 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  9s 
+01:20:32 | origin 2020 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  8s 
+01:20:41 | origin 2021 h 1 regional_ar  pr_week_imf->pr_week_iml delay 1  9s 
+01:20:41 | origin 2021 h 2 regional_ar  pr_week_imf->pr_week_iml delay 1  9s 
+01:20:50 | origin 2021 h 3 regional_ar  pr_week_imf->pr_week_iml delay 1  9s 
+01:20:51 | origin 2021 h 4 regional_ar  pr_week_imf->pr_week_iml delay 1  10s 
+01:20:53 | origin 2013 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  3s 
+01:20:54 | origin 2013 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  3s 
+01:20:57 | origin 2013 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  3s 
+01:20:58 | origin 2013 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:01 | origin 2014 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:02 | origin 2014 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:05 | origin 2014 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:06 | origin 2014 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:10 | origin 2015 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:11 | origin 2015 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:14 | origin 2015 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:15 | origin 2015 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  4s 
+01:21:19 | origin 2016 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:20 | origin 2016 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:24 | origin 2016 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:25 | origin 2016 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:30 | origin 2017 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  6s 
+01:21:31 | origin 2017 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  6s 
+01:21:35 | origin 2017 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  5s 
+01:21:37 | origin 2017 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  6s 
+01:21:42 | origin 2018 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  7s 
+01:21:44 | origin 2018 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  7s 
+01:21:49 | origin 2018 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  7s 
+01:21:51 | origin 2018 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  7s 
+01:21:57 | origin 2019 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:21:59 | origin 2019 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:22:05 | origin 2019 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:22:06 | origin 2019 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  7s 
+01:22:13 | origin 2020 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:22:14 | origin 2020 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:22:21 | origin 2020 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:22:22 | origin 2020 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  8s 
+01:22:29 | origin 2021 h 1 regional_ar  pr_week_iml->pr_week_iml delay 0  9s 
+01:22:32 | origin 2021 h 2 regional_ar  pr_week_iml->pr_week_iml delay 0  9s 
+01:22:39 | origin 2021 h 3 regional_ar  pr_week_iml->pr_week_iml delay 0  9s 
+01:22:41 | origin 2021 h 4 regional_ar  pr_week_iml->pr_week_iml delay 0  9s 
+01:22:45 | Figures 
+Warning messages:
+1: Removed 1 row containing missing values (`geom_line()`). 
+2: Removed 2 rows containing missing values (`geom_point()`). 
+There were 24 warnings (use warnings() to see them)
+01:22:51 | Done 
+    h        grp     variant weeks       mae log_score mae_seasonal
+ 1: 1 All cities persistence  5375 0.6576744        NA    0.8481176
+ 2: 1 All cities      pooled  5375 0.7678491 0.8706960    0.8481176
+ 3: 1 All cities   pooled_ar  5375 0.6734275 0.8323558    0.8481176
+ 4: 1 All cities    regional  5375 0.8241941 0.8689030    0.8481176
+ 5: 1 All cities regional_ar  5375 0.7230067 0.8305541    0.8481176
+ 6: 1 All cities    seasonal  5375 0.8481176 0.8983885    0.8481176
+ 7: 2 All cities persistence  5375 0.7045581        NA    0.8481176
+ 8: 2 All cities      pooled  5375 0.7608211 0.8732689    0.8481176
+ 9: 2 All cities   pooled_ar  5375 0.7304123 0.8523462    0.8481176
+10: 2 All cities    regional  5375 0.7853340 0.8691179    0.8481176
+11: 2 All cities regional_ar  5375 0.7601307 0.8498669    0.8481176
+12: 2 All cities    seasonal  5375 0.8481176 0.8983885    0.8481176
+13: 3 All cities persistence  5375 0.7237209        NA    0.8481176
+14: 3 All cities      pooled  5375 0.7900226 0.8840584    0.8481176
+15: 3 All cities   pooled_ar  5375 0.7769451 0.8732647    0.8481176
+16: 3 All cities    regional  5375 0.8195064 0.8835686    0.8481176
+17: 3 All cities regional_ar  5375 0.8076408 0.8732816    0.8481176
+18: 3 All cities    seasonal  5375 0.8481176 0.8983885    0.8481176
+19: 4 All cities persistence  5375 0.7613023        NA    0.8481176
+20: 4 All cities      pooled  5375 0.8491238 0.8930210    0.8481176
+21: 4 All cities   pooled_ar  5375 0.8445511 0.8884515    0.8481176
+22: 4 All cities    regional  5375 0.8676022 0.8946528    0.8481176
+23: 4 All cities regional_ar  5375 0.8618967 0.8903833    0.8481176
+24: 4 All cities    seasonal  5375 0.8481176 0.8983885    0.8481176
+    h        grp     variant weeks       mae log_score mae_seasonal
+    mae_skill_vs_seasonal
+ 1:                 0.225
+ 2:                 0.095
+ 3:                 0.206
+ 4:                 0.028
+ 5:                 0.148
+ 6:                 0.000
+ 7:                 0.169
+ 8:                 0.103
+ 9:                 0.139
+10:                 0.074
+11:                 0.104
+12:                 0.000
+13:                 0.147
+14:                 0.068
+15:                 0.084
+16:                 0.034
+17:                 0.048
+18:                 0.000
+19:                 0.102
+20:                -0.001
+21:                 0.004
+22:                -0.023
+23:                -0.016
+24:                 0.000
+    mae_skill_vs_seasonal
+        variant h        grp         threshold weeks outbreak_weeks alerts
+ 1: persistence 1 All cities Outbreak-excluded  5375            370    368
+ 2:      pooled 1 All cities Outbreak-excluded  5372            370   1324
+ 3:   pooled_ar 1 All cities Outbreak-excluded  5372            370   1384
+ 4:    regional 1 All cities Outbreak-excluded  5372            370   1557
+ 5: regional_ar 1 All cities Outbreak-excluded  5372            370   1542
+ 6:    seasonal 1 All cities Outbreak-excluded  5372            370   1370
+ 7: persistence 2 All cities Outbreak-excluded  5375            370    368
+ 8:      pooled 2 All cities Outbreak-excluded  5372            370   1479
+ 9:   pooled_ar 2 All cities Outbreak-excluded  5372            370   1613
+10:    regional 2 All cities Outbreak-excluded  5372            370   1505
+11: regional_ar 2 All cities Outbreak-excluded  5372            370   1554
+12:    seasonal 2 All cities Outbreak-excluded  5372            370   1370
+13: persistence 3 All cities Outbreak-excluded  5375            370    368
+14:      pooled 3 All cities Outbreak-excluded  5372            370   1368
+15:   pooled_ar 3 All cities Outbreak-excluded  5372            370   1389
+16:    regional 3 All cities Outbreak-excluded  5372            370   1342
+17: regional_ar 3 All cities Outbreak-excluded  5372            370   1326
+18:    seasonal 3 All cities Outbreak-excluded  5372            370   1370
+19: persistence 4 All cities Outbreak-excluded  5375            370    366
+20:      pooled 4 All cities Outbreak-excluded  5372            370   1347
+21:   pooled_ar 4 All cities Outbreak-excluded  5372            370   1379
+22:    regional 4 All cities Outbreak-excluded  5372            370   1356
+23: regional_ar 4 All cities Outbreak-excluded  5372            370   1352
+24:    seasonal 4 All cities Outbreak-excluded  5372            370   1370
+25: persistence 1 All cities          Standard  5375            195    196
+26:      pooled 1 All cities          Standard  5375            195   1451
+27:   pooled_ar 1 All cities          Standard  5375            195   1513
+28:    regional 1 All cities          Standard  5375            195   1345
+29: regional_ar 1 All cities          Standard  5375            195   1369
+30:    seasonal 1 All cities          Standard  5375            195   1524
+31: persistence 2 All cities          Standard  5375            195    196
+32:      pooled 2 All cities          Standard  5375            195   1500
+33:   pooled_ar 2 All cities          Standard  5375            195   1337
+34:    regional 2 All cities          Standard  5375            195   1417
+35: regional_ar 2 All cities          Standard  5375            195   1329
+36:    seasonal 2 All cities          Standard  5375            195   1524
+37: persistence 3 All cities          Standard  5375            195    196
+38:      pooled 3 All cities          Standard  5375            195   1531
+39:   pooled_ar 3 All cities          Standard  5375            195   1591
+40:    regional 3 All cities          Standard  5375            195   1555
+41: regional_ar 3 All cities          Standard  5375            195   1538
+42:    seasonal 3 All cities          Standard  5375            195   1524
+43: persistence 4 All cities          Standard  5375            195    196
+44:      pooled 4 All cities          Standard  5375            195   1574
+45:   pooled_ar 4 All cities          Standard  5375            195   1478
+46:    regional 4 All cities          Standard  5375            195   1529
+47: regional_ar 4 All cities          Standard  5375            195   1542
+48:    seasonal 4 All cities          Standard  5375            195   1524
+        variant h        grp         threshold weeks outbreak_weeks alerts
+    sensitivity specificity  precision false_alarms_per_city_year
+ 1:   0.2972973   0.9484515 0.29891304                   2.433962
+ 2:   0.6378378   0.7824870 0.17824773                  10.264151
+ 3:   0.6783784   0.7734906 0.18135838                  10.688679
+ 4:   0.7000000   0.7405038 0.16634554                  12.245283
+ 5:   0.7081081   0.7441024 0.16990921                  12.075472
+ 6:   0.6297297   0.7726909 0.17007299                  10.726415
+ 7:   0.2567568   0.9454545 0.25815217                   2.575472
+ 8:   0.6513514   0.7524990 0.16294794                  11.679245
+ 9:   0.7135135   0.7303079 0.16367018                  12.726415
+10:   0.6567568   0.7477009 0.16146179                  11.905660
+11:   0.6972973   0.7409036 0.16602317                  12.226415
+12:   0.6297297   0.7726909 0.17007299                  10.726415
+13:   0.2540541   0.9452547 0.25543478                   2.584906
+14:   0.6405405   0.7738904 0.17324561                  10.669811
+15:   0.6594595   0.7710916 0.17566595                  10.801887
+16:   0.6027027   0.7762895 0.16616990                  10.556604
+17:   0.6270270   0.7812875 0.17496229                  10.320755
+18:   0.6297297   0.7726909 0.17007299                  10.726415
+19:   0.1891892   0.9408591 0.19125683                   2.792453
+20:   0.6216216   0.7766893 0.17074981                  10.537736
+21:   0.6270270   0.7706917 0.16823785                  10.820755
+22:   0.6135135   0.7742903 0.16740413                  10.650943
+23:   0.6027027   0.7742903 0.16494083                  10.650943
+24:   0.6297297   0.7726909 0.17007299                  10.726415
+25:   0.1897436   0.9693050 0.18877551                   1.500000
+26:   0.6717949   0.7451737 0.09028256                  12.452830
+27:   0.6974359   0.7341699 0.08988764                  12.990566
+28:   0.6923077   0.7664093 0.10037175                  11.415094
+29:   0.7128205   0.7625483 0.10153397                  11.603774
+30:   0.6102564   0.7287645 0.07808399                  13.254717
+31:   0.1641026   0.9683398 0.16326531                   1.547170
+32:   0.6769231   0.7359073 0.08800000                  12.905660
+33:   0.6615385   0.7667954 0.09648467                  11.396226
+34:   0.6974359   0.7527027 0.09597742                  12.084906
+35:   0.6820513   0.7691120 0.10007524                  11.283019
+36:   0.6102564   0.7287645 0.07808399                  13.254717
+37:   0.1897436   0.9693050 0.18877551                   1.500000
+38:   0.6512821   0.7289575 0.08295232                  13.245283
+39:   0.6564103   0.7175676 0.08045255                  13.801887
+40:   0.6461538   0.7241313 0.08102894                  13.481132
+41:   0.6717949   0.7283784 0.08517555                  13.273585
+42:   0.6102564   0.7287645 0.07808399                  13.254717
+43:   0.1333333   0.9671815 0.13265306                   1.603774
+44:   0.6512821   0.7206564 0.08068615                  13.650943
+45:   0.6205128   0.7380309 0.08186739                  12.801887
+46:   0.6153846   0.7279923 0.07848267                  13.292453
+47:   0.6307692   0.7260618 0.07976654                  13.386792
+48:   0.6102564   0.7287645 0.07808399                  13.254717
+    sensitivity specificity  precision false_alarms_per_city_year
+    h episode_length         threshold     variant episodes warned pct_warned
+ 1: 1       2+ weeks Outbreak-excluded persistence       64     19       29.7
+ 2: 2       2+ weeks Outbreak-excluded persistence       64     17       26.6
+ 3: 3       2+ weeks Outbreak-excluded persistence       64     13       20.3
+ 4: 4       2+ weeks Outbreak-excluded persistence       64     13       20.3
+ 5: 1       2+ weeks Outbreak-excluded regional_ar       64     48       75.0
+ 6: 2       2+ weeks Outbreak-excluded regional_ar       64     49       76.6
+ 7: 3       2+ weeks Outbreak-excluded regional_ar       64     44       68.8
+ 8: 4       2+ weeks Outbreak-excluded regional_ar       64     45       70.3
+ 9: 1       2+ weeks Outbreak-excluded    seasonal       64     45       70.3
+10: 2       2+ weeks Outbreak-excluded    seasonal       64     45       70.3
+11: 3       2+ weeks Outbreak-excluded    seasonal       64     45       70.3
+12: 4       2+ weeks Outbreak-excluded    seasonal       64     45       70.3
+13: 1    single week Outbreak-excluded persistence      173     23       13.3
+14: 2    single week Outbreak-excluded persistence      173     26       15.0
+15: 3    single week Outbreak-excluded persistence      173     37       21.4
+16: 4    single week Outbreak-excluded persistence      173     23       13.3
+17: 1    single week Outbreak-excluded regional_ar      173     94       54.3
+18: 2    single week Outbreak-excluded regional_ar      173     99       57.2
+19: 3    single week Outbreak-excluded regional_ar      173     89       51.4
+20: 4    single week Outbreak-excluded regional_ar      173     84       48.6
+21: 1    single week Outbreak-excluded    seasonal      173     90       52.0
+22: 2    single week Outbreak-excluded    seasonal      173     90       52.0
+23: 3    single week Outbreak-excluded    seasonal      173     90       52.0
+24: 4    single week Outbreak-excluded    seasonal      173     90       52.0
+25: 1       2+ weeks          Standard persistence       36      9       25.0
+26: 2       2+ weeks          Standard persistence       36      8       22.2
+27: 3       2+ weeks          Standard persistence       36      7       19.4
+28: 4       2+ weeks          Standard persistence       36      4       11.1
+29: 1       2+ weeks          Standard regional_ar       36     29       80.6
+30: 2       2+ weeks          Standard regional_ar       36     25       69.4
+31: 3       2+ weeks          Standard regional_ar       36     24       66.7
+32: 4       2+ weeks          Standard regional_ar       36     23       63.9
+33: 1       2+ weeks          Standard    seasonal       36     24       66.7
+34: 2       2+ weeks          Standard    seasonal       36     24       66.7
+35: 3       2+ weeks          Standard    seasonal       36     24       66.7
+36: 4       2+ weeks          Standard    seasonal       36     24       66.7
+37: 1    single week          Standard persistence      102      8        7.8
+38: 2    single week          Standard persistence      102     10        9.8
+39: 3    single week          Standard persistence      102     14       13.7
+40: 4    single week          Standard persistence      102      9        8.8
+41: 1    single week          Standard regional_ar      102     61       59.8
+42: 2    single week          Standard regional_ar      102     60       58.8
+43: 3    single week          Standard regional_ar      102     65       63.7
+44: 4    single week          Standard regional_ar      102     62       60.8
+45: 1    single week          Standard    seasonal      102     60       58.8
+46: 2    single week          Standard    seasonal      102     60       58.8
+47: 3    single week          Standard    seasonal      102     60       58.8
+48: 4    single week          Standard    seasonal      102     60       58.8
+    h episode_length         threshold     variant episodes warned pct_warned
+                               check h       mae log_score
+ 1:              Late -> Late (main) 1 0.7230067 0.8305541
+ 2:              Late -> Late (main) 2 0.7601307 0.8498669
+ 3:              Late -> Late (main) 3 0.8076408 0.8732816
+ 4:              Late -> Late (main) 4 0.8618967 0.8903833
+ 5:                   Final -> Final 1 0.7373697 0.8328606
+ 6:                    Final -> Late 1 0.8290759 0.8303781
+ 7: Late -> Late, no reporting delay 1 0.6219703 0.7926205
+ 8:                   Final -> Final 2 0.7824707 0.8526188
+ 9:                    Final -> Late 2 0.8134457 0.8481677
+10: Late -> Late, no reporting delay 2 0.6851341 0.8335395
+11:                   Final -> Final 3 0.8232505 0.8698549
+12:                    Final -> Late 3 0.7997661 0.8680577
+13: Late -> Late, no reporting delay 3 0.7944383 0.8659808
+14:                   Final -> Final 4 0.8687974 0.8849714
+15:                    Final -> Late 4 0.8520227 0.8869488
+16: Late -> Late, no reporting delay 4 0.8584296 0.8854347
+                               check h        grp         threshold weeks
+ 1:              Late -> Late (main) 1 All cities          Standard  5375
+ 2:              Late -> Late (main) 2 All cities          Standard  5375
+ 3:              Late -> Late (main) 3 All cities          Standard  5375
+ 4:              Late -> Late (main) 4 All cities          Standard  5375
+ 5:                   Final -> Final 1 All cities          Standard  5375
+ 6:                    Final -> Late 1 All cities          Standard  5375
+ 7: Late -> Late, no reporting delay 1 All cities          Standard  5375
+ 8:                   Final -> Final 2 All cities          Standard  5375
+ 9:                    Final -> Late 2 All cities          Standard  5375
+10: Late -> Late, no reporting delay 2 All cities          Standard  5375
+11:                   Final -> Final 3 All cities          Standard  5375
+12:                    Final -> Late 3 All cities          Standard  5375
+13: Late -> Late, no reporting delay 3 All cities          Standard  5375
+14:                   Final -> Final 4 All cities          Standard  5375
+15:                    Final -> Late 4 All cities          Standard  5375
+16: Late -> Late, no reporting delay 4 All cities          Standard  5375
+17:              Late -> Late (main) 1 All cities Outbreak-excluded  5372
+18:              Late -> Late (main) 2 All cities Outbreak-excluded  5372
+19:              Late -> Late (main) 3 All cities Outbreak-excluded  5372
+20:              Late -> Late (main) 4 All cities Outbreak-excluded  5372
+21:                   Final -> Final 1 All cities Outbreak-excluded  5372
+22:                    Final -> Late 1 All cities Outbreak-excluded  5372
+23: Late -> Late, no reporting delay 1 All cities Outbreak-excluded  5372
+24:                   Final -> Final 2 All cities Outbreak-excluded  5372
+25:                    Final -> Late 2 All cities Outbreak-excluded  5372
+26: Late -> Late, no reporting delay 2 All cities Outbreak-excluded  5372
+27:                   Final -> Final 3 All cities Outbreak-excluded  5372
+28:                    Final -> Late 3 All cities Outbreak-excluded  5372
+29: Late -> Late, no reporting delay 3 All cities Outbreak-excluded  5372
+30:                   Final -> Final 4 All cities Outbreak-excluded  5372
+31:                    Final -> Late 4 All cities Outbreak-excluded  5372
+32: Late -> Late, no reporting delay 4 All cities Outbreak-excluded  5372
+                               check h        grp         threshold weeks
+    outbreak_weeks alerts sensitivity specificity  precision
+ 1:            195   1369   0.7128205   0.7625483 0.10153397
+ 2:            195   1329   0.6820513   0.7691120 0.10007524
+ 3:            195   1538   0.6717949   0.7283784 0.08517555
+ 4:            195   1542   0.6307692   0.7260618 0.07976654
+ 5:            195   1396   0.7333333   0.7581081 0.10243553
+ 6:            195   1490   0.7128205   0.7391892 0.09328859
+ 7:            195   1182   0.7128205   0.7986486 0.11759729
+ 8:            195   1282   0.6410256   0.7766409 0.09750390
+ 9:            195   1311   0.6461538   0.7712355 0.09610984
+10:            195   1573   0.7384615   0.7241313 0.09154482
+11:            195   1556   0.6769231   0.7250965 0.08483290
+12:            195   1555   0.6923077   0.7258687 0.08681672
+13:            195   1556   0.6974359   0.7258687 0.08740360
+14:            195   1371   0.6102564   0.7583012 0.08679796
+15:            195   1280   0.5948718   0.7752896 0.09062500
+16:            195   1496   0.6307692   0.7349421 0.08221925
+17:            370   1542   0.7081081   0.7441024 0.16990921
+18:            370   1554   0.6972973   0.7409036 0.16602317
+19:            370   1326   0.6270270   0.7812875 0.17496229
+20:            370   1352   0.6027027   0.7742903 0.16494083
+21:            370   1510   0.7027027   0.7501000 0.17218543
+22:            370   1537   0.7243243   0.7463015 0.17436565
+23:            370   1303   0.7054054   0.7916833 0.20030698
+24:            370   1557   0.6945946   0.7401040 0.16506101
+25:            370   1554   0.7081081   0.7417033 0.16859717
+26:            370   1655   0.7270270   0.7229108 0.16253776
+27:            370   1643   0.7297297   0.7255098 0.16433354
+28:            370   1636   0.7162162   0.7259096 0.16198044
+29:            370   1458   0.6540541   0.7568972 0.16598080
+30:            370   1302   0.6189189   0.7854858 0.17588326
+31:            370   1271   0.6162162   0.7914834 0.17938631
+32:            370   1350   0.6135135   0.7754898 0.16814815
+    outbreak_weeks alerts sensitivity specificity  precision
+    false_alarms_per_city_year
+ 1:                  11.603774
+ 2:                  11.283019
+ 3:                  13.273585
+ 4:                  13.386792
+ 5:                  11.820755
+ 6:                  12.745283
+ 7:                   9.839623
+ 8:                  10.915094
+ 9:                  11.179245
+10:                  13.481132
+11:                  13.433962
+12:                  13.396226
+13:                  13.396226
+14:                  11.811321
+15:                  10.981132
+16:                  12.952830
+17:                  12.075472
+18:                  12.226415
+19:                  10.320755
+20:                  10.650943
+21:                  11.792453
+22:                  11.971698
+23:                   9.830189
+24:                  12.264151
+25:                  12.188679
+26:                  13.075472
+27:                  12.952830
+28:                  12.933962
+29:                  11.471698
+30:                  10.122642
+31:                   9.839623
+32:                  10.594340
+    false_alarms_per_city_year

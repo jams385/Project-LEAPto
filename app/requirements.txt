@@ -1,0 +1,8 @@
+# Runtime packages for the dashboard (cd app; streamlit run main.py). Exact versions
+# of the environment the tests pass in. Python 3.10.7 (see .python-version).
+# Everything for development (tests, the data scripts) is in requirements-dev.txt.
+streamlit==1.65.0
+pandas==2.3.3
+numpy==2.2.6
+plotly==7.1.0
+pyarrow==25.0.1

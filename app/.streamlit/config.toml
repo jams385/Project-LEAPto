@@ -1,0 +1,23 @@
+# Theme tokens from docs/DESIGN_DECISIONS.md. Fine-grained styling lives in
+# app/static/style.css (injected once by app/components/ui.py).
+
+[theme]
+base = "dark"
+primaryColor = "#4FB3E6"
+backgroundColor = "#0B1E33"
+secondaryBackgroundColor = "#12304D"
+textColor = "#E8EEF5"
+font = "sans-serif"
+baseRadius = "0.75rem"
+borderColor = "rgba(255,255,255,0.14)"
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[server]
+enableStaticServing = true
+headless = true
+
+[browser]
+gatherUsageStats = false

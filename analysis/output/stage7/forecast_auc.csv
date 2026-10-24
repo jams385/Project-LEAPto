@@ -1,0 +1,37 @@
+variant,h,scope,auc
+pooled_ar,1,"All weeks, all cities",0.813069366847856
+pooled_ar_flood,1,"All weeks, all cities",0.812190259031523
+seasonal,1,"All weeks, all cities",0.750854252893437
+pooled_ar,2,"All weeks, all cities",0.79740320088181
+pooled_ar_flood,2,"All weeks, all cities",0.796701859796622
+seasonal,2,"All weeks, all cities",0.750854252893437
+pooled_ar,3,"All weeks, all cities",0.779261808789998
+pooled_ar_flood,3,"All weeks, all cities",0.778583701654473
+seasonal,3,"All weeks, all cities",0.750854252893437
+pooled_ar,4,"All weeks, all cities",0.764575250980689
+pooled_ar_flood,4,"All weeks, all cities",0.763574570171931
+seasonal,4,"All weeks, all cities",0.750854252893437
+pooled_ar,1,"Within city, rainy season",0.707656276731395
+pooled_ar_flood,1,"Within city, rainy season",0.706312481087371
+seasonal,1,"Within city, rainy season",0.626912449907774
+pooled_ar,2,"Within city, rainy season",0.686246696011534
+pooled_ar_flood,2,"Within city, rainy season",0.683197937428932
+seasonal,2,"Within city, rainy season",0.626912449907774
+pooled_ar,3,"Within city, rainy season",0.646704869606312
+pooled_ar_flood,3,"Within city, rainy season",0.644244772365908
+seasonal,3,"Within city, rainy season",0.626912449907774
+pooled_ar,4,"Within city, rainy season",0.625238959037644
+pooled_ar_flood,4,"Within city, rainy season",0.622765303615261
+seasonal,4,"Within city, rainy season",0.626912449907774
+pooled_ar,1,Within each city (mean of 9),0.73226530142991
+pooled_ar_flood,1,Within each city (mean of 9),0.733973060777737
+seasonal,1,Within each city (mean of 9),0.666127477097459
+pooled_ar,2,Within each city (mean of 9),0.716609297067565
+pooled_ar_flood,2,Within each city (mean of 9),0.717565893557982
+seasonal,2,Within each city (mean of 9),0.666127477097459
+pooled_ar,3,Within each city (mean of 9),0.694852918085235
+pooled_ar_flood,3,Within each city (mean of 9),0.694096729881354
+seasonal,3,Within each city (mean of 9),0.666127477097459
+pooled_ar,4,Within each city (mean of 9),0.676128759324012
+pooled_ar_flood,4,Within each city (mean of 9),0.672385664316452
+seasonal,4,Within each city (mean of 9),0.666127477097459
